@@ -1,1124 +1,1195 @@
 #EXTM3U
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-#EXT-X-ORIGIN:https://tvjustin.com
-#EXTINF:-1 tvg-name="A Spor" group-title="Ulusal Kanallar",A Spor
+
+#EXTINF:-1 tvg-name="24 TV FHD" group-title="Haber",24 TV FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/142
+
+#EXTINF:-1 tvg-name="24 TV HD" group-title="Haber",24 TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232354
+
+#EXTINF:-1 tvg-name="360 TV HD" group-title="Ulusal",360 TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/16
+
+#EXTINF:-1 tvg-name="38 KENT TV" group-title="Yerel",38 KENT TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51092
+
+#EXTINF:-1 tvg-name="A HABER FHD" group-title="Haber",A HABER FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/139
+
+#EXTINF:-1 tvg-name="A HABER HD" group-title="Haber",A HABER HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/140
+
+#EXTINF:-1 tvg-name="A2 HD" group-title="Ulusal",A2 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/9
+
+#EXTINF:-1 tvg-name="ADA TV" group-title="Yerel",ADA TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222389
+
+#EXTINF:-1 tvg-name="AKIT TV" group-title="Yerel",AKIT TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/117
+
+#EXTINF:-1 tvg-name="AKSU TV" group-title="Yerel",AKSU TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51071
+
+#EXTINF:-1 tvg-name="ALANYA ATV" group-title="Yerel",ALANYA ATV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222378
+
+#EXTINF:-1 tvg-name="ALANYA DIM TV" group-title="Yerel",ALANYA DIM TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222384
+
+#EXTINF:-1 tvg-name="ALANYA POSTA TV" group-title="Yerel",ALANYA POSTA TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222377
+
+#EXTINF:-1 tvg-name="APARA HD" group-title="Ulusal",APARA HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50841
+
+#EXTINF:-1 tvg-name="ARTI" group-title="Yerel",ARTI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/123
+
+#EXTINF:-1 tvg-name="ASPOR FHD" group-title="Spor",ASPOR FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/61
+
+#EXTINF:-1 tvg-name="ASPOR HD" group-title="Spor",ASPOR HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/60
+
+#EXTINF:-1 tvg-name="ASTV" group-title="Yerel",ASTV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51070
+
+#EXTINF:-1 tvg-name="ATV FHD" group-title="Ulusal",ATV FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/46
+
+#EXTINF:-1 tvg-name="ATV HD" group-title="Ulusal",ATV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/45
+
+#EXTINF:-1 tvg-name="Anadolu Dernek" group-title="Yerel",Anadolu Dernek
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/62999
+
+#EXTINF:-1 tvg-name="BABY TV" group-title="Çocuk",BABY TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/295
+
+#EXTINF:-1 tvg-name="BBC Earth HD" group-title="Belgesel",BBC Earth HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/258
+
+#EXTINF:-1 tvg-name="BBC First" group-title="Dizi",BBC First
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/165462
+
+#EXTINF:-1 tvg-name="BEIN GURME HD" group-title="Belgesel",BEIN GURME HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/271
+
+#EXTINF:-1 tvg-name="BEIN IZ HD" group-title="Belgesel",BEIN IZ HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/270
+
+#EXTINF:-1 tvg-name="BEIN MOVIES PREMIER 2" group-title="Sinema",BEIN MOVIES PREMIER 2
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/234446
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 HD" group-title="Spor",BEIN SPORTS 2 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/31408
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 SD" group-title="Spor",BEIN SPORTS 2 SD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/116675
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 HD" group-title="Spor",BEIN SPORTS 3 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/31409
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 SD" group-title="Spor",BEIN SPORTS 3 SD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/116676
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 SD" group-title="Spor",BEIN SPORTS 4 SD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/116677
+
+#EXTINF:-1 tvg-name="BEYAZ TV FHD" group-title="Ulusal",BEYAZ TV FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/25
+
+#EXTINF:-1 tvg-name="BEYAZ TV HD" group-title="Ulusal",BEYAZ TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/24
+
+#EXTINF:-1 tvg-name="BI TV" group-title="Spor",BI TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/314376
+
+#EXTINF:-1 tvg-name="BLOOMBERGHT FHD" group-title="Haber",BLOOMBERGHT FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50842
+
+#EXTINF:-1 tvg-name="BLOOMBERGHT HD" group-title="Haber",BLOOMBERGHT HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/137
+
+#EXTINF:-1 tvg-name="BLT TURK" group-title="Yerel",BLT TURK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51072
+
+#EXTINF:-1 tvg-name="BR TV" group-title="Yerel",BR TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51073
+
+#EXTINF:-1 tvg-name="BRT 1" group-title="Yerel",BRT 1
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50949
+
+#EXTINF:-1 tvg-name="BURSA LINE TV" group-title="Yerel",BURSA LINE TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/264445
+
+#EXTINF:-1 tvg-name="BeIN Box Office" group-title="Sinema",BeIN Box Office
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337661
+
+#EXTINF:-1 tvg-name="BeIN H&E" group-title="Ulusal",BeIN H&E
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337662
+
+#EXTINF:-1 tvg-name="Bein Sports 1 (Yuksek Kalite) Mac Zamani" group-title="Spor",Bein Sports 1 (Yuksek Kalite) Mac Zamani
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/237081
+
+#EXTINF:-1 tvg-name="Bein Sports 2 (Yuksek Kalite) Mac Zamani" group-title="Spor",Bein Sports 2 (Yuksek Kalite) Mac Zamani
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/223132
+
+#EXTINF:-1 tvg-name="Bein Sports 3 (Yuksek Kalite) Mac Zamani" group-title="Spor",Bein Sports 3 (Yuksek Kalite) Mac Zamani
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/223133
+
+#EXTINF:-1 tvg-name="Bein Sports 4 (Yuksek Kalite) Mac Zamani" group-title="Spor",Bein Sports 4 (Yuksek Kalite) Mac Zamani
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/223134
+
+#EXTINF:-1 tvg-name="Bein Sports 5 (Yuksek Kalite) Mac Zamani" group-title="Spor",Bein Sports 5 (Yuksek Kalite) Mac Zamani
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/223135
+
+#EXTINF:-1 tvg-name="Bein Xtra" group-title="Spor",Bein Xtra
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/256065
+
+#EXTINF:-1 tvg-name="Bengu Turk" group-title="Yerel",Bengu Turk
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/61595
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD" group-title="Çocuk",CARTOON NETWORK HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/301
+
+#EXTINF:-1 tvg-name="CARTOONITO" group-title="Çocuk",CARTOONITO
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/15020
+
+#EXTINF:-1 tvg-name="CAY TV" group-title="Yerel",CAY TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50959
+
+#EXTINF:-1 tvg-name="CEM TV FHD" group-title="Yerel",CEM TV FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/126
+
+#EXTINF:-1 tvg-name="CINE BOX HD 1" group-title="Sinema",CINE BOX HD 1
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/160
+
+#EXTINF:-1 tvg-name="CINE BOX HD 2" group-title="Sinema",CINE BOX HD 2
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/159
+
+#EXTINF:-1 tvg-name="CINE BOX HD 3" group-title="Sinema",CINE BOX HD 3
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/158
+
+#EXTINF:-1 tvg-name="CINE BOX HD 4" group-title="Sinema",CINE BOX HD 4
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/157
+
+#EXTINF:-1 tvg-name="CINE BOX HD 5" group-title="Sinema",CINE BOX HD 5
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/156
+
+#EXTINF:-1 tvg-name="CINE BOX HD 6" group-title="Sinema",CINE BOX HD 6
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/155
+
+#EXTINF:-1 tvg-name="CINE BOX HD 7" group-title="Sinema",CINE BOX HD 7
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/154
+
+#EXTINF:-1 tvg-name="CINE BOX HD 8" group-title="Sinema",CINE BOX HD 8
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/230514
+
+#EXTINF:-1 tvg-name="CINE VISION 1" group-title="Sinema",CINE VISION 1
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115709
+
+#EXTINF:-1 tvg-name="CINE VISION 2" group-title="Sinema",CINE VISION 2
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115710
+
+#EXTINF:-1 tvg-name="CINE VISION 3" group-title="Sinema",CINE VISION 3
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115711
+
+#EXTINF:-1 tvg-name="CINE VISION 4" group-title="Sinema",CINE VISION 4
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115712
+
+#EXTINF:-1 tvg-name="CINE VISION 5" group-title="Sinema",CINE VISION 5
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115713
+
+#EXTINF:-1 tvg-name="CINE VISION 6" group-title="Sinema",CINE VISION 6
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115714
+
+#EXTINF:-1 tvg-name="CNBC-E" group-title="Ulusal",CNBC-E
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/254694
+
+#EXTINF:-1 tvg-name="CNN TURK FHD" group-title="Haber",CNN TURK FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/149
+
+#EXTINF:-1 tvg-name="CNN TURK HD" group-title="Haber",CNN TURK HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/150
+
+#EXTINF:-1 tvg-name="COCUK SMART" group-title="Çocuk",COCUK SMART
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/38394
+
+#EXTINF:-1 tvg-name="DA Vinci" group-title="Belgesel",DA Vinci
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/253
+
+#EXTINF:-1 tvg-name="DAMAR TV" group-title="Müzik",DAMAR TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/41839
+
+#EXTINF:-1 tvg-name="DEHA TV" group-title="Yerel",DEHA TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51075
+
+#EXTINF:-1 tvg-name="DENIZPOSTASI TV" group-title="Yerel",DENIZPOSTASI TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51076
+
+#EXTINF:-1 tvg-name="DIM TV" group-title="Yerel",DIM TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51077
+
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="Belgesel",DISCOVERY CHANNEL
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/264
+
+#EXTINF:-1 tvg-name="DISCOVERY IDX" group-title="Belgesel",DISCOVERY IDX
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/261
+
+#EXTINF:-1 tvg-name="DISNEY JR HD" group-title="Çocuk",DISNEY JR HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/291
+
+#EXTINF:-1 tvg-name="DIYANET TV" group-title="Dini",DIYANET TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/59796
+
+#EXTINF:-1 tvg-name="DMAX FHD" group-title="Belgesel",DMAX FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/274
+
+#EXTINF:-1 tvg-name="DOST TV" group-title="Dini",DOST TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50941
+
+#EXTINF:-1 tvg-name="DREAM TURK HD" group-title="Müzik",DREAM TURK HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/310
+
+#EXTINF:-1 tvg-name="DUCK TV" group-title="Çocuk",DUCK TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/234451
+
+#EXTINF:-1 tvg-name="Dizismart Max" group-title="Dizi",Dizismart Max
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/60119
+
+#EXTINF:-1 tvg-name="Dizismart Premium HD" group-title="Dizi",Dizismart Premium HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/218
+
+#EXTINF:-1 tvg-name="EDESSA TV" group-title="Yerel",EDESSA TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/103454
+
+#EXTINF:-1 tvg-name="EGE TV" group-title="Yerel",EGE TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50984
+
+#EXTINF:-1 tvg-name="EKO TURK" group-title="Yerel",EKO TURK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/31415
+
+#EXTINF:-1 tvg-name="EKOL SPORTS" group-title="Spor",EKOL SPORTS
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/314140
+
+#EXTINF:-1 tvg-name="EKOL TV" group-title="Haber",EKOL TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/255109
+
+#EXTINF:-1 tvg-name="EPIC DRAMA" group-title="Dizi",EPIC DRAMA
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50426
+
+#EXTINF:-1 tvg-name="ER TV" group-title="Yerel",ER TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51078
+
+#EXTINF:-1 tvg-name="ERT SAH TV" group-title="Yerel",ERT SAH TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51079
+
+#EXTINF:-1 tvg-name="EXXEN 1 FHD (MAC ZAMANI)" group-title="Spor",EXXEN 1 FHD (MAC ZAMANI)
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/96896
+
+#EXTINF:-1 tvg-name="EXXEN 1 HD (MAC ZAMANI)" group-title="Spor",EXXEN 1 HD (MAC ZAMANI)
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/97466
+
+#EXTINF:-1 tvg-name="EXXEN 1 SD (MAC ZAMANI)" group-title="Spor",EXXEN 1 SD (MAC ZAMANI)
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/98582
+
+#EXTINF:-1 tvg-name="EXXEN 2 (MAC ZAMANI)" group-title="Spor",EXXEN 2 (MAC ZAMANI)
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/96972
+
+#EXTINF:-1 tvg-name="EXXEN 3 (MAC ZAMANI)" group-title="Spor",EXXEN 3 (MAC ZAMANI)
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/96973
+
+#EXTINF:-1 tvg-name="EXXEN 4 (MAC ZAMANI)" group-title="Spor",EXXEN 4 (MAC ZAMANI)
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/256328
+
+#EXTINF:-1 tvg-name="EXXEN 5 (MAC ZAMANI)" group-title="Spor",EXXEN 5 (MAC ZAMANI)
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/256329
+
+#EXTINF:-1 tvg-name="EXXEN 6 (MAC ZAMANI)" group-title="Spor",EXXEN 6 (MAC ZAMANI)
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/256330
+
+#EXTINF:-1 tvg-name="EXXEN 7 (MAC ZAMANI)" group-title="Spor",EXXEN 7 (MAC ZAMANI)
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/264314
+
+#EXTINF:-1 tvg-name="EXXEN 8 (MAC ZAMANI)" group-title="Spor",EXXEN 8 (MAC ZAMANI)
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/264315
+
+#EXTINF:-1 tvg-name="Eurosport 1 HD" group-title="Spor",Eurosport 1 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/65
+
+#EXTINF:-1 tvg-name="Eurosport 2 HD" group-title="Spor",Eurosport 2 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/64
+
+#EXTINF:-1 tvg-name="FBTV HD" group-title="Spor",FBTV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/57
+
+#EXTINF:-1 tvg-name="FILM SCREEN" group-title="Sinema",FILM SCREEN
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/275983
+
+#EXTINF:-1 tvg-name="FLASH TV HD" group-title="Ulusal",FLASH TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/99597
+
+#EXTINF:-1 tvg-name="FORTUNA TV" group-title="Yerel",FORTUNA TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222391
+
+#EXTINF:-1 tvg-name="FRT TV" group-title="Yerel",FRT TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51080
+
+#EXTINF:-1 tvg-name="FX FHD" group-title="Dizi",FX FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/12
+
+#EXTINF:-1 tvg-name="Filmbox HD" group-title="Sinema",Filmbox HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/66460
+
+#EXTINF:-1 tvg-name="GAZIANTEP OLAY TV" group-title="Yerel",GAZIANTEP OLAY TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222382
+
+#EXTINF:-1 tvg-name="GRT TV" group-title="Yerel",GRT TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51082
+
+#EXTINF:-1 tvg-name="GUNEY TV" group-title="Yerel",GUNEY TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222393
+
+#EXTINF:-1 tvg-name="GURBET24 TV" group-title="Yerel",GURBET24 TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222392
+
+#EXTINF:-1 tvg-name="HABER 61" group-title="Yerel",HABER 61
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222394
+
+#EXTINF:-1 tvg-name="HABER GLOBAL FHD" group-title="Haber",HABER GLOBAL FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/40495
+
+#EXTINF:-1 tvg-name="HABER GLOBAL HD" group-title="Haber",HABER GLOBAL HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232359
+
+#EXTINF:-1 tvg-name="HABER TURK FHD" group-title="Haber",HABER TURK FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/147
+
+#EXTINF:-1 tvg-name="HABER TURK HD" group-title="Haber",HABER TURK HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/148
+
+#EXTINF:-1 tvg-name="HABITAT TV" group-title="Belgesel",HABITAT TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/78416
+
+#EXTINF:-1 tvg-name="HALK TV FHD" group-title="Haber",HALK TV FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/5
+
+#EXTINF:-1 tvg-name="HALK TV HD" group-title="Haber",HALK TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232357
+
+#EXTINF:-1 tvg-name="HIT MUZIK 90s" group-title="Müzik",HIT MUZIK 90s
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222521
+
+#EXTINF:-1 tvg-name="HIT MUZIK HALK" group-title="Müzik",HIT MUZIK HALK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222519
+
+#EXTINF:-1 tvg-name="HIT MUZIK JAZZ" group-title="Müzik",HIT MUZIK JAZZ
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222518
+
+#EXTINF:-1 tvg-name="HIT MUZIK KLASIK" group-title="Müzik",HIT MUZIK KLASIK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222517
+
+#EXTINF:-1 tvg-name="HIT MUZIK OZGUN" group-title="Müzik",HIT MUZIK OZGUN
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222516
+
+#EXTINF:-1 tvg-name="HIT MUZIK POP" group-title="Müzik",HIT MUZIK POP
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222520
+
+#EXTINF:-1 tvg-name="HIT MUZIK RAP" group-title="Müzik",HIT MUZIK RAP
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222515
+
+#EXTINF:-1 tvg-name="HIT MUZIK ROCK" group-title="Müzik",HIT MUZIK ROCK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222514
+
+#EXTINF:-1 tvg-name="HIT MUZIK SANAT" group-title="Müzik",HIT MUZIK SANAT
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222513
+
+#EXTINF:-1 tvg-name="HT SPOR" group-title="Spor",HT SPOR
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/246337
+
+#EXTINF:-1 tvg-name="IBB TV" group-title="Yerel",IBB TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222390
+
+#EXTINF:-1 tvg-name="ILKE TV" group-title="Yerel",ILKE TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51083
+
+#EXTINF:-1 tvg-name="KANAL 15" group-title="Yerel",KANAL 15
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51084
+
+#EXTINF:-1 tvg-name="KANAL 23" group-title="Yerel",KANAL 23
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51085
+
+#EXTINF:-1 tvg-name="KANAL 26" group-title="Yerel",KANAL 26
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51086
+
+#EXTINF:-1 tvg-name="KANAL 3" group-title="Yerel",KANAL 3
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51087
+
+#EXTINF:-1 tvg-name="KANAL 33" group-title="Yerel",KANAL 33
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222376
+
+#EXTINF:-1 tvg-name="KANAL 7 FHD" group-title="Ulusal",KANAL 7 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/22
+
+#EXTINF:-1 tvg-name="KANAL 7 HD" group-title="Ulusal",KANAL 7 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50845
+
+#EXTINF:-1 tvg-name="KANAL ANTALYA" group-title="Yerel",KANAL ANTALYA
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222388
+
+#EXTINF:-1 tvg-name="KANAL D FHD" group-title="Ulusal",KANAL D FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/40
+
+#EXTINF:-1 tvg-name="KANAL D HD" group-title="Ulusal",KANAL D HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/39
+
+#EXTINF:-1 tvg-name="KANAL FIRAT" group-title="Yerel",KANAL FIRAT
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51088
+
+#EXTINF:-1 tvg-name="KANAL URFA" group-title="Yerel",KANAL URFA
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/103452
+
+#EXTINF:-1 tvg-name="KANAL Z" group-title="Yerel",KANAL Z
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51089
+
+#EXTINF:-1 tvg-name="KAY TV" group-title="Yerel",KAY TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51091
+
+#EXTINF:-1 tvg-name="KAY TV KAYSERI" group-title="Yerel",KAY TV KAYSERI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222395
+
+#EXTINF:-1 tvg-name="KIBRIS GENC TV" group-title="Yerel",KIBRIS GENC TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50952
+
+#EXTINF:-1 tvg-name="KONSERLER" group-title="Müzik",KONSERLER
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/240402
+
+#EXTINF:-1 tvg-name="KRALPOP" group-title="Müzik",KRALPOP
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/15012
+
+#EXTINF:-1 tvg-name="KRT TV FHD" group-title="Haber",KRT TV FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/15281
+
+#EXTINF:-1 tvg-name="KRT TV HD" group-title="Haber",KRT TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232358
+
+#EXTINF:-1 tvg-name="KUDUS TV" group-title="Dini",KUDUS TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50942
+
+#EXTINF:-1 tvg-name="LIFE TV" group-title="Yerel",LIFE TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51093
+
+#EXTINF:-1 tvg-name="LOCA 1" group-title="Sinema",LOCA 1
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115706
+
+#EXTINF:-1 tvg-name="LOCA 2" group-title="Sinema",LOCA 2
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115707
+
+#EXTINF:-1 tvg-name="LOCA 3" group-title="Sinema",LOCA 3
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115708
+
+#EXTINF:-1 tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50428
+
+#EXTINF:-1 tvg-name="Lalegul" group-title="Dini",Lalegul
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/54675
+
+#EXTINF:-1 tvg-name="MAVI KARADENIZ" group-title="Yerel",MAVI KARADENIZ
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50996
+
+#EXTINF:-1 tvg-name="MAXSPORTS 1" group-title="Spor",MAXSPORTS 1
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/61351
+
+#EXTINF:-1 tvg-name="MAXSPORTS 2" group-title="Spor",MAXSPORTS 2
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/97877
+
+#EXTINF:-1 tvg-name="MAXSPORTS 3" group-title="Spor",MAXSPORTS 3
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/106027
+
+#EXTINF:-1 tvg-name="MAXSPORTS 4 Formula 1" group-title="Spor",MAXSPORTS 4 Formula 1
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232435
+
+#EXTINF:-1 tvg-name="MAXSPORTS 5 Formula 1" group-title="Spor",MAXSPORTS 5 Formula 1
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/247370
+
+#EXTINF:-1 tvg-name="MAXSPORTS 6 UFC" group-title="Spor",MAXSPORTS 6 UFC
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/272922
+
+#EXTINF:-1 tvg-name="MERCAN TV" group-title="Yerel",MERCAN TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51094
+
+#EXTINF:-1 tvg-name="MERSIN ICEL TV" group-title="Yerel",MERSIN ICEL TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222383
+
+#EXTINF:-1 tvg-name="MINIBOX ASLAN" group-title="Çocuk",MINIBOX ASLAN
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249397
+
+#EXTINF:-1 tvg-name="MINIBOX BARBIE" group-title="Çocuk",MINIBOX BARBIE
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/60115
+
+#EXTINF:-1 tvg-name="MINIBOX BIZ IKIMIZ" group-title="Çocuk",MINIBOX BIZ IKIMIZ
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249396
+
+#EXTINF:-1 tvg-name="MINIBOX BULMACA KULESI" group-title="Çocuk",MINIBOX BULMACA KULESI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249395
+
+#EXTINF:-1 tvg-name="MINIBOX CANIM KARDESIM" group-title="Çocuk",MINIBOX CANIM KARDESIM
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10436
+
+#EXTINF:-1 tvg-name="MINIBOX CILLE" group-title="Çocuk",MINIBOX CILLE
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249394
+
+#EXTINF:-1 tvg-name="MINIBOX DORU" group-title="Çocuk",MINIBOX DORU
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249393
+
+#EXTINF:-1 tvg-name="MINIBOX EGE ILE GAGA" group-title="Çocuk",MINIBOX EGE ILE GAGA
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249392
+
+#EXTINF:-1 tvg-name="MINIBOX ELIF VE ARKADASLARI" group-title="Çocuk",MINIBOX ELIF VE ARKADASLARI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249390
+
+#EXTINF:-1 tvg-name="MINIBOX ELIFIN DUSLERI" group-title="Çocuk",MINIBOX ELIFIN DUSLERI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249391
+
+#EXTINF:-1 tvg-name="MINIBOX EMIRAY" group-title="Çocuk",MINIBOX EMIRAY
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249389
+
+#EXTINF:-1 tvg-name="MINIBOX GRIZY VE LEMINGLER" group-title="Çocuk",MINIBOX GRIZY VE LEMINGLER
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/60116
+
+#EXTINF:-1 tvg-name="MINIBOX IBI" group-title="Çocuk",MINIBOX IBI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249387
+
+#EXTINF:-1 tvg-name="MINIBOX KAPTAN PENGU" group-title="Çocuk",MINIBOX KAPTAN PENGU
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249386
+
+#EXTINF:-1 tvg-name="MINIBOX KARE" group-title="Çocuk",MINIBOX KARE
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249385
+
+#EXTINF:-1 tvg-name="MINIBOX KELOGLAN" group-title="Çocuk",MINIBOX KELOGLAN
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10435
+
+#EXTINF:-1 tvg-name="MINIBOX KONUSAN TOM" group-title="Çocuk",MINIBOX KONUSAN TOM
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/60117
+
+#EXTINF:-1 tvg-name="MINIBOX KOSTEBEKGILLER" group-title="Çocuk",MINIBOX KOSTEBEKGILLER
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249384
+
+#EXTINF:-1 tvg-name="MINIBOX KRAL SAKIR" group-title="Çocuk",MINIBOX KRAL SAKIR
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10437
+
+#EXTINF:-1 tvg-name="MINIBOX KUCUK HAZERFAN" group-title="Çocuk",MINIBOX KUCUK HAZERFAN
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249388
+
+#EXTINF:-1 tvg-name="MINIBOX KUKULI" group-title="Çocuk",MINIBOX KUKULI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10438
+
+#EXTINF:-1 tvg-name="MINIBOX KUZUCUK" group-title="Çocuk",MINIBOX KUZUCUK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10439
+
+#EXTINF:-1 tvg-name="MINIBOX LEYLEK KARDES" group-title="Çocuk",MINIBOX LEYLEK KARDES
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249383
+
+#EXTINF:-1 tvg-name="MINIBOX LIMON ILE ZEYTIN" group-title="Çocuk",MINIBOX LIMON ILE ZEYTIN
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10440
+
+#EXTINF:-1 tvg-name="MINIBOX MASHA ILE KOCA AYI" group-title="Çocuk",MINIBOX MASHA ILE KOCA AYI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10441
+
+#EXTINF:-1 tvg-name="MINIBOX MAYSA VE BULUT" group-title="Çocuk",MINIBOX MAYSA VE BULUT
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249382
+
+#EXTINF:-1 tvg-name="MINIBOX MUTLU OYUNCAKLAR" group-title="Çocuk",MINIBOX MUTLU OYUNCAKLAR
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249381
+
+#EXTINF:-1 tvg-name="MINIBOX NASREDDIN HOCA" group-title="Çocuk",MINIBOX NASREDDIN HOCA
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249380
+
+#EXTINF:-1 tvg-name="MINIBOX NILOYA" group-title="Çocuk",MINIBOX NILOYA
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10442
+
+#EXTINF:-1 tvg-name="MINIBOX PEMBE PANTER" group-title="Çocuk",MINIBOX PEMBE PANTER
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/49046
+
+#EXTINF:-1 tvg-name="MINIBOX PEPE" group-title="Çocuk",MINIBOX PEPE
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10443
+
+#EXTINF:-1 tvg-name="MINIBOX PIJAMASKELILER" group-title="Çocuk",MINIBOX PIJAMASKELILER
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/20026
+
+#EXTINF:-1 tvg-name="MINIBOX PIRIL" group-title="Çocuk",MINIBOX PIRIL
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249379
+
+#EXTINF:-1 tvg-name="MINIBOX RAFADAN TAYFA" group-title="Çocuk",MINIBOX RAFADAN TAYFA
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10444
+
+#EXTINF:-1 tvg-name="MINIBOX REDKIT" group-title="Çocuk",MINIBOX REDKIT
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/63262
+
+#EXTINF:-1 tvg-name="MINIBOX SEVIMLI DOSTLAR" group-title="Çocuk",MINIBOX SEVIMLI DOSTLAR
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10445
+
+#EXTINF:-1 tvg-name="MINIBOX SIRINLER" group-title="Çocuk",MINIBOX SIRINLER
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/60729
+
+#EXTINF:-1 tvg-name="MINIBOX TAVSAN MOMO" group-title="Çocuk",MINIBOX TAVSAN MOMO
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249378
+
+#EXTINF:-1 tvg-name="MINIBOX TOM AND JERRY" group-title="Çocuk",MINIBOX TOM AND JERRY
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/54875
+
+#EXTINF:-1 tvg-name="MINIBOX YADE" group-title="Çocuk",MINIBOX YADE
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249377
+
+#EXTINF:-1 tvg-name="MINIKA COCUK FHD" group-title="Çocuk",MINIKA COCUK FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/306
+
+#EXTINF:-1 tvg-name="MINIKA GO FHD" group-title="Çocuk",MINIKA GO FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/304
+
+#EXTINF:-1 tvg-name="MOVIESMART Classic HD" group-title="Sinema",MOVIESMART Classic HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/216
+
+#EXTINF:-1 tvg-name="MOVIESMART TURK" group-title="Sinema",MOVIESMART TURK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/64828
+
+#EXTINF:-1 tvg-name="Meltem TV" group-title="Yerel",Meltem TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/63250
+
+#EXTINF:-1 tvg-name="NAT GEO WILD HD" group-title="Belgesel",NAT GEO WILD HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/282
+
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" group-title="Belgesel",NATIONAL GEOGRAPHIC HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/286
+
+#EXTINF:-1 tvg-name="NBA TV HD" group-title="Spor",NBA TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/67
+
+#EXTINF:-1 tvg-name="NICK JR" group-title="Çocuk",NICK JR
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/297
+
+#EXTINF:-1 tvg-name="NICKELODEON" group-title="Çocuk",NICKELODEON
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/298
+
+#EXTINF:-1 tvg-name="NICKTOONS" group-title="Çocuk",NICKTOONS
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/234450
+
+#EXTINF:-1 tvg-name="NR1" group-title="Müzik",NR1
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/234452
+
+#EXTINF:-1 tvg-name="NR1 TURK" group-title="Müzik",NR1 TURK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/314
+
+#EXTINF:-1 tvg-name="NTV FHD" group-title="Haber",NTV FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/151
+
+#EXTINF:-1 tvg-name="NTV HD" group-title="Haber",NTV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/152
+
+#EXTINF:-1 tvg-name="Now TV FHD" group-title="Ulusal",Now TV FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/33
+
+#EXTINF:-1 tvg-name="Now TV HD" group-title="Ulusal",Now TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/34
+
+#EXTINF:-1 tvg-name="OLAY TURK" group-title="Yerel",OLAY TURK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51096
+
+#EXTINF:-1 tvg-name="OLAY TV" group-title="Yerel",OLAY TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51081
+
+#EXTINF:-1 tvg-name="PLUS 1 FHD" group-title="Spor",PLUS 1 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337958
+
+#EXTINF:-1 tvg-name="PLUS 2 HD" group-title="Spor",PLUS 2 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337959
+
+#EXTINF:-1 tvg-name="POWER TURK HD" group-title="Müzik",POWER TURK HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/317
+
+#EXTINF:-1 tvg-name="POWER TV HD" group-title="Müzik",POWER TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/315
+
+#EXTINF:-1 tvg-name="REHBER" group-title="Dini",REHBER
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/103451
+
+#EXTINF:-1 tvg-name="RUMELİ TV" group-title="Yerel",RUMELİ TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50999
+
+#EXTINF:-1 tvg-name="S Sport 2 FHD" group-title="Spor",S Sport 2 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232183
+
+#EXTINF:-1 tvg-name="S Sport 2 HD" group-title="Spor",S Sport 2 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/15169
+
+#EXTINF:-1 tvg-name="S Sport FHD" group-title="Spor",S Sport FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/68
+
+#EXTINF:-1 tvg-name="S Sport HD" group-title="Spor",S Sport HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/32058
+
+#EXTINF:-1 tvg-name="S Sport+ 1 ( YAYIN ZAMANI AKTİF )" group-title="Spor",S Sport+ 1 ( YAYIN ZAMANI AKTİF )
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/233930
+
+#EXTINF:-1 tvg-name="S Sport+ 10 ( YAYIN ZAMANI AKTİF )" group-title="Spor",S Sport+ 10 ( YAYIN ZAMANI AKTİF )
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337170
+
+#EXTINF:-1 tvg-name="S Sport+ 2 ( YAYIN ZAMANI AKTİF )" group-title="Spor",S Sport+ 2 ( YAYIN ZAMANI AKTİF )
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/233931
+
+#EXTINF:-1 tvg-name="S Sport+ 3 ( YAYIN ZAMANI AKTİF )" group-title="Spor",S Sport+ 3 ( YAYIN ZAMANI AKTİF )
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/233932
+
+#EXTINF:-1 tvg-name="S Sport+ 4 ( YAYIN ZAMANI AKTİF )" group-title="Spor",S Sport+ 4 ( YAYIN ZAMANI AKTİF )
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337176
+
+#EXTINF:-1 tvg-name="S Sport+ 5 ( YAYIN ZAMANI AKTİF )" group-title="Spor",S Sport+ 5 ( YAYIN ZAMANI AKTİF )
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337175
+
+#EXTINF:-1 tvg-name="S Sport+ 6 ( YAYIN ZAMANI AKTİF )" group-title="Spor",S Sport+ 6 ( YAYIN ZAMANI AKTİF )
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337174
+
+#EXTINF:-1 tvg-name="S Sport+ 7 ( YAYIN ZAMANI AKTİF )" group-title="Spor",S Sport+ 7 ( YAYIN ZAMANI AKTİF )
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337173
+
+#EXTINF:-1 tvg-name="S Sport+ 8 ( YAYIN ZAMANI AKTİF )" group-title="Spor",S Sport+ 8 ( YAYIN ZAMANI AKTİF )
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337172
+
+#EXTINF:-1 tvg-name="S Sport+ 9 ( YAYIN ZAMANI AKTİF )" group-title="Spor",S Sport+ 9 ( YAYIN ZAMANI AKTİF )
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337171
+
+#EXTINF:-1 tvg-name="SANCAK TV" group-title="Yerel",SANCAK TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/63251
+
+#EXTINF:-1 tvg-name="SAT 7 TURK" group-title="Yerel",SAT 7 TURK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51097
+
+#EXTINF:-1 tvg-name="SHOW TV FHD" group-title="Ulusal",SHOW TV FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/42
+
+#EXTINF:-1 tvg-name="SHOW TV HD" group-title="Ulusal",SHOW TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/43
+
+#EXTINF:-1 tvg-name="SHOWMAX HD" group-title="Ulusal",SHOWMAX HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/31363
+
+#EXTINF:-1 tvg-name="SIFIR TV" group-title="Spor",SIFIR TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/316094
+
+#EXTINF:-1 tvg-name="SINEMA TV" group-title="Sinema",SINEMA TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/163
+
+#EXTINF:-1 tvg-name="SINEMA TV 1001" group-title="Sinema",SINEMA TV 1001
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/164
+
+#EXTINF:-1 tvg-name="SINEMA TV 1002" group-title="Sinema",SINEMA TV 1002
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/103140
+
+#EXTINF:-1 tvg-name="SINEMA TV 2" group-title="Sinema",SINEMA TV 2
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/103139
+
+#EXTINF:-1 tvg-name="SINEMA TV AILE" group-title="Sinema",SINEMA TV AILE
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/166
+
+#EXTINF:-1 tvg-name="SINEMA TV AILE 2" group-title="Sinema",SINEMA TV AILE 2
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/103141
+
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON" group-title="Sinema",SINEMA TV AKSIYON
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/167
+
+#EXTINF:-1 tvg-name="SINEMA TV AKSIYON 2" group-title="Sinema",SINEMA TV AKSIYON 2
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/103142
+
+#EXTINF:-1 tvg-name="SINEMA TV KOMEDI" group-title="Sinema",SINEMA TV KOMEDI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/168
+
+#EXTINF:-1 tvg-name="SINEMA TV KOMEDI 2" group-title="Sinema",SINEMA TV KOMEDI 2
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/103143
+
+#EXTINF:-1 tvg-name="SINEMA TV YERLI" group-title="Sinema",SINEMA TV YERLI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/165
+
+#EXTINF:-1 tvg-name="SINEMA TV YERLI 2" group-title="Sinema",SINEMA TV YERLI 2
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232360
+
+#EXTINF:-1 tvg-name="SPORSMART 2 FHD" group-title="Spor",SPORSMART 2 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/57772
+
+#EXTINF:-1 tvg-name="SPORSMART FHD" group-title="Spor",SPORSMART FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/60118
+
+#EXTINF:-1 tvg-name="SPORSMART HD" group-title="Spor",SPORSMART HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/231858
+
+#EXTINF:-1 tvg-name="SPORTS TV HD" group-title="Spor",SPORTS TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/59
+
+#EXTINF:-1 tvg-name="STAR TV FHD" group-title="Ulusal",STAR TV FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/37
+
+#EXTINF:-1 tvg-name="STAR TV HD" group-title="Ulusal",STAR TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/36
+
+#EXTINF:-1 tvg-name="SZC TV FHD" group-title="Haber",SZC TV FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/144
+
+#EXTINF:-1 tvg-name="SZC TV HD" group-title="Haber",SZC TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232355
+
+#EXTINF:-1 tvg-name="Semerkand TV" group-title="Dini",Semerkand TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/53037
+
+#EXTINF:-1 tvg-name="TARIH TV" group-title="Belgesel",TARIH TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/140595
+
+#EXTINF:-1 tvg-name="TELE 1 HD" group-title="Haber",TELE 1 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/121
+
+#EXTINF:-1 tvg-name="TEVE 2 FHD" group-title="Ulusal",TEVE 2 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/19
+
+#EXTINF:-1 tvg-name="TEVE 2 HD" group-title="Ulusal",TEVE 2 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/18
+
+#EXTINF:-1 tvg-name="TGRT HABER FHD" group-title="Haber",TGRT HABER FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232352
+
+#EXTINF:-1 tvg-name="TGRT HABER HD" group-title="Haber",TGRT HABER HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222870
+
+#EXTINF:-1 tvg-name="TIVIBUSPOR" group-title="Spor",TIVIBUSPOR
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/216195
+
+#EXTINF:-1 tvg-name="TIVIBUSPOR 1 HD" group-title="Spor",TIVIBUSPOR 1 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/75
+
+#EXTINF:-1 tvg-name="TIVIBUSPOR 2 HD" group-title="Spor",TIVIBUSPOR 2 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/74
+
+#EXTINF:-1 tvg-name="TIVIBUSPOR 3 HD" group-title="Spor",TIVIBUSPOR 3 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/73
+
+#EXTINF:-1 tvg-name="TIVIBUSPOR 4 HD" group-title="Spor",TIVIBUSPOR 4 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/96999
+
+#EXTINF:-1 tvg-name="TJK TV" group-title="Spor",TJK TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/54
+
+#EXTINF:-1 tvg-name="TLC HD" group-title="Ulusal",TLC HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/14
+
+#EXTINF:-1 tvg-name="TON TV" group-title="Yerel",TON TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51098
+
+#EXTINF:-1 tvg-name="TRT 1 FHD" group-title="Ulusal",TRT 1 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337667
+
+#EXTINF:-1 tvg-name="TRT 1 HD" group-title="Ulusal",TRT 1 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/48
+
+#EXTINF:-1 tvg-name="TRT 2 HD" group-title="Ulusal",TRT 2 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/40980
+
+#EXTINF:-1 tvg-name="TRT 4K" group-title="Ulusal",TRT 4K
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51
+
+#EXTINF:-1 tvg-name="TRT AVAZ" group-title="Yerel",TRT AVAZ
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/234448
+
+#EXTINF:-1 tvg-name="TRT BELGESEL HD" group-title="Belgesel",TRT BELGESEL HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50847
+
+#EXTINF:-1 tvg-name="TRT COCUK FHD" group-title="Çocuk",TRT COCUK FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/308
+
+#EXTINF:-1 tvg-name="TRT Diyanet Cocuk" group-title="Çocuk",TRT Diyanet Cocuk
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/244105
+
+#EXTINF:-1 tvg-name="TRT GENCTV" group-title="Ulusal",TRT GENCTV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/346536
+
+#EXTINF:-1 tvg-name="TRT HABER FHD" group-title="Haber",TRT HABER FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/145
+
+#EXTINF:-1 tvg-name="TRT HABER HD" group-title="Haber",TRT HABER HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/146
+
+#EXTINF:-1 tvg-name="TRT MUZIK HD" group-title="Müzik",TRT MUZIK HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/6925
+
+#EXTINF:-1 tvg-name="TRT SPOR FHD" group-title="Spor",TRT SPOR FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/63
+
+#EXTINF:-1 tvg-name="TRT SPOR HD" group-title="Spor",TRT SPOR HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/62
+
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" group-title="Spor",TRT SPOR YILDIZ
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/97008
+
+#EXTINF:-1 tvg-name="TRT TURK" group-title="Ulusal",TRT TURK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/234447
+
+#EXTINF:-1 tvg-name="TV 100 FHD" group-title="Haber",TV 100 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50939
+
+#EXTINF:-1 tvg-name="TV 100 HD" group-title="Haber",TV 100 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232356
+
+#EXTINF:-1 tvg-name="TV 41" group-title="Yerel",TV 41
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51100
+
+#EXTINF:-1 tvg-name="TV 52" group-title="Yerel",TV 52
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222397
+
+#EXTINF:-1 tvg-name="TV 6" group-title="Yerel",TV 6
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222385
+
+#EXTINF:-1 tvg-name="TV 8 FHD" group-title="Ulusal",TV 8 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/31
+
+#EXTINF:-1 tvg-name="TV 8 HD" group-title="Ulusal",TV 8 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/30
+
+#EXTINF:-1 tvg-name="TVNET FHD" group-title="Haber",TVNET FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/54676
+
+#EXTINF:-1 tvg-name="TVNET HD" group-title="Haber",TVNET HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232353
+
+#EXTINF:-1 tvg-name="TYT TURK" group-title="Ulusal",TYT TURK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/316447
+
+#EXTINF:-1 tvg-name="Tabii Spor" group-title="Spor",Tabii Spor
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/256704
+
+#EXTINF:-1 tvg-name="Tabii Spor 1" group-title="Spor",Tabii Spor 1
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/255108
+
+#EXTINF:-1 tvg-name="Tabii Spor 10" group-title="Spor",Tabii Spor 10
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/333396
+
+#EXTINF:-1 tvg-name="Tabii Spor 2" group-title="Spor",Tabii Spor 2
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/255107
+
+#EXTINF:-1 tvg-name="Tabii Spor 3" group-title="Spor",Tabii Spor 3
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/255106
+
+#EXTINF:-1 tvg-name="Tabii Spor 4" group-title="Spor",Tabii Spor 4
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/255105
+
+#EXTINF:-1 tvg-name="Tabii Spor 5" group-title="Spor",Tabii Spor 5
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/255104
+
+#EXTINF:-1 tvg-name="Tabii Spor 6" group-title="Spor",Tabii Spor 6
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/255103
+
+#EXTINF:-1 tvg-name="Tabii Spor 7" group-title="Spor",Tabii Spor 7
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/333399
+
+#EXTINF:-1 tvg-name="Tabii Spor 8" group-title="Spor",Tabii Spor 8
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/333398
+
+#EXTINF:-1 tvg-name="Tabii Spor 9" group-title="Spor",Tabii Spor 9
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/333397
+
+#EXTINF:-1 tvg-name="ULKE TV FHD" group-title="Haber",ULKE TV FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/132
+
+#EXTINF:-1 tvg-name="ULKE TV HD" group-title="Haber",ULKE TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/133
+
+#EXTINF:-1 tvg-name="ULUSAL KANAL" group-title="Haber",ULUSAL KANAL
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/6
+
+#EXTINF:-1 tvg-name="UNIVERSAL 1 Kadin 1 Erkek" group-title="Eğlence",UNIVERSAL 1 Kadin 1 Erkek
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232633
+
+#EXTINF:-1 tvg-name="UNIVERSAL AKSIYON" group-title="Sinema",UNIVERSAL AKSIYON
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/13739
+
+#EXTINF:-1 tvg-name="UNIVERSAL BELGESEL" group-title="Belgesel",UNIVERSAL BELGESEL
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/97172
+
+#EXTINF:-1 tvg-name="UNIVERSAL BEST PICTURES" group-title="Sinema",UNIVERSAL BEST PICTURES
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/64149
+
+#EXTINF:-1 tvg-name="UNIVERSAL BILIMKURGU" group-title="Sinema",UNIVERSAL BILIMKURGU
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/13736
+
+#EXTINF:-1 tvg-name="UNIVERSAL CHOICE" group-title="Sinema",UNIVERSAL CHOICE
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/223731
+
+#EXTINF:-1 tvg-name="UNIVERSAL COCUK" group-title="Çocuk",UNIVERSAL COCUK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222340
+
+#EXTINF:-1 tvg-name="UNIVERSAL DISCOVERY" group-title="Belgesel",UNIVERSAL DISCOVERY
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/253585
+
+#EXTINF:-1 tvg-name="UNIVERSAL DISNEY" group-title="Çocuk",UNIVERSAL DISNEY
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/64153
+
+#EXTINF:-1 tvg-name="UNIVERSAL DRAM" group-title="Sinema",UNIVERSAL DRAM
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/13733
+
+#EXTINF:-1 tvg-name="UNIVERSAL FANTEZI" group-title="Sinema",UNIVERSAL FANTEZI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/13734
+
+#EXTINF:-1 tvg-name="UNIVERSAL GÜLDÜR GÜLDÜR SHOW" group-title="Eğlence",UNIVERSAL GÜLDÜR GÜLDÜR SHOW
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/19988
+
+#EXTINF:-1 tvg-name="UNIVERSAL KAFA TV" group-title="Eğlence",UNIVERSAL KAFA TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/267784
+
+#EXTINF:-1 tvg-name="UNIVERSAL KEMAL SUNAL" group-title="Sinema",UNIVERSAL KEMAL SUNAL
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/13741
+
+#EXTINF:-1 tvg-name="UNIVERSAL KOMEDI" group-title="Sinema",UNIVERSAL KOMEDI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/13735
+
+#EXTINF:-1 tvg-name="UNIVERSAL KORKU" group-title="Sinema",UNIVERSAL KORKU
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/13737
+
+#EXTINF:-1 tvg-name="UNIVERSAL MARVEL" group-title="Sinema",UNIVERSAL MARVEL
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/20037
+
+#EXTINF:-1 tvg-name="UNIVERSAL SONVIZYON" group-title="Sinema",UNIVERSAL SONVIZYON
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222407
+
+#EXTINF:-1 tvg-name="UNIVERSAL TURK" group-title="Sinema",UNIVERSAL TURK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/13732
+
+#EXTINF:-1 tvg-name="UNIVERSAL TURK KOMEDI" group-title="Sinema",UNIVERSAL TURK KOMEDI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/59396
+
+#EXTINF:-1 tvg-name="UNIVERSAL TURK POP MÜZİK" group-title="Müzik",UNIVERSAL TURK POP MÜZİK
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/19986
+
+#EXTINF:-1 tvg-name="UNIVERSAL WESTERN" group-title="Sinema",UNIVERSAL WESTERN
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/56020
+
+#EXTINF:-1 tvg-name="UNIVERSAL YABANCI MUZIK 80's" group-title="Müzik",UNIVERSAL YABANCI MUZIK 80's
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/49032
+
+#EXTINF:-1 tvg-name="UNIVERSAL YESILCAM" group-title="Sinema",UNIVERSAL YESILCAM
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/13731
+
+#EXTINF:-1 tvg-name="UNIVERSAL YESILCAM KOMEDI" group-title="Sinema",UNIVERSAL YESILCAM KOMEDI
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/64002
+
+#EXTINF:-1 tvg-name="UNIVERSAL Çok Güzel Hareketler Bunlar" group-title="Eğlence",UNIVERSAL Çok Güzel Hareketler Bunlar
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/225548
+
+#EXTINF:-1 tvg-name="URFANATIK TV" group-title="Yerel",URFANATIK TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222386
+
+#EXTINF:-1 tvg-name="Universal Muslum Gurses" group-title="Müzik",Universal Muslum Gurses
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/225751
+
+#EXTINF:-1 tvg-name="Universal Olacak O Kadar" group-title="Eğlence",Universal Olacak O Kadar
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/253156
+
+#EXTINF:-1 tvg-name="Universal Roman TV" group-title="Müzik",Universal Roman TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/23976
+
+#EXTINF:-1 tvg-name="Universal Sezen Aksu" group-title="Müzik",Universal Sezen Aksu
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/102753
+
+#EXTINF:-1 tvg-name="Universal Stand-UP" group-title="Eğlence",Universal Stand-UP
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/247683
+
+#EXTINF:-1 tvg-name="Universal Talk Show" group-title="Eğlence",Universal Talk Show
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249993
+
+#EXTINF:-1 tvg-name="VANGOLU TV" group-title="Yerel",VANGOLU TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222387
+
+#EXTINF:-1 tvg-name="VIASAT EXPLORER" group-title="Belgesel",VIASAT EXPLORER
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/234449
+
+#EXTINF:-1 tvg-name="VIASAT HISTORY" group-title="Belgesel",VIASAT HISTORY
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/47970
+
+#EXTINF:-1 tvg-name="VIZYON 58" group-title="Yerel",VIZYON 58
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51102
+
+#EXTINF:-1 tvg-name="VUSLAT TV" group-title="Yerel",VUSLAT TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51103
+
+#EXTINF:-1 tvg-name="Vav TV" group-title="Dini",Vav TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/108957
+
+#EXTINF:-1 tvg-name="YABAN TV HD" group-title="Belgesel",YABAN TV HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/15018
+
+#EXTINF:-1 tvg-name="YOL TV" group-title="Yerel",YOL TV
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/124
+
+#EXTINF:-1 tvg-name="beIN Movies Premiere HD" group-title="Sinema",beIN Movies Premiere HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/225
+
+#EXTINF:-1 tvg-name="beIN Movies Stars HD" group-title="Sinema",beIN Movies Stars HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/224
+
+#EXTINF:-1 tvg-name="beIN Movies Turk HD" group-title="Sinema",beIN Movies Turk HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/223
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1 FHD" group-title="Spor",beIN SPORTS 1 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/77238
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1 HD" group-title="Spor",beIN SPORTS 1 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/89
+
+#EXTINF:-1 tvg-name="beIN SPORTS 1 SD/MOBIL" group-title="Spor",beIN SPORTS 1 SD/MOBIL
 http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/84
-4316. [TR-HABER] TR: 24 TV FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/142
 
- 4317. [TR-HABER] TR: 24 TV HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232354
+#EXTINF:-1 tvg-name="beIN SPORTS 2 FHD" group-title="Spor",beIN SPORTS 2 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/87
 
- 4318. [TR-ULUSAL] TR: 360 TV HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/16
+#EXTINF:-1 tvg-name="beIN SPORTS 3 FHD" group-title="Spor",beIN SPORTS 3 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/31407
 
- 4319. [TR-YEREL] TR: 38 KENT TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51092
+#EXTINF:-1 tvg-name="beIN SPORTS 4 FHD" group-title="Spor",beIN SPORTS 4 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/353187
 
- 4320. [TR-HABER] TR: A HABER FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/139
+#EXTINF:-1 tvg-name="beIN SPORTS 4 HD" group-title="Spor",beIN SPORTS 4 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/81
 
- 4321. [TR-HABER] TR: A HABER HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/140
+#EXTINF:-1 tvg-name="beIN SPORTS 4K (Mac Zamani)" group-title="Spor",beIN SPORTS 4K (Mac Zamani)
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/269805
 
- 4322. [TR-ULUSAL] TR: A2 HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/9
+#EXTINF:-1 tvg-name="beIN SPORTS 5 FHD" group-title="Spor",beIN SPORTS 5 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/353212
 
- 4323. [TR-YEREL] TR: ADA TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222389
+#EXTINF:-1 tvg-name="beIN SPORTS 5 HD" group-title="Spor",beIN SPORTS 5 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/172690
 
- 4324. [TR-YEREL] TR: AKIT TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/117
+#EXTINF:-1 tvg-name="beIN SPORTS 5 SD" group-title="Spor",beIN SPORTS 5 SD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/353211
 
- 4325. [TR-YEREL] TR: AKSU TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51071
+#EXTINF:-1 tvg-name="beIN SPORTS HABER HD" group-title="Spor",beIN SPORTS HABER HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/76
 
- 4326. [TR-YEREL] TR: ALANYA ATV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222378
+#EXTINF:-1 tvg-name="beIN SPORTS MAX 1 FHD" group-title="Spor",beIN SPORTS MAX 1 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/80
 
- 4327. [TR-YEREL] TR: ALANYA DIM TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222384
+#EXTINF:-1 tvg-name="beIN SPORTS MAX 1 HD" group-title="Spor",beIN SPORTS MAX 1 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/79
 
- 4328. [TR-YEREL] TR: ALANYA POSTA TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222377
+#EXTINF:-1 tvg-name="beIN SPORTS MAX 2 FHD" group-title="Spor",beIN SPORTS MAX 2 FHD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/78
 
- 4329. [TR-ULUSAL] TR: APARA HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50841
+#EXTINF:-1 tvg-name="beIN SPORTS MAX 2 HD" group-title="Spor",beIN SPORTS MAX 2 HD
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/77
 
- 4330. [TR-YEREL] TR: ARTI
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/123
+#EXTINF:-1 tvg-name="beIN Series 1" group-title="Dizi",beIN Series 1
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222
 
- 4331. [TR-SPOR] TR: ASPOR FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/61
+#EXTINF:-1 tvg-name="beIN Series 2" group-title="Dizi",beIN Series 2
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/220
 
- 4332. [TR-SPOR] TR: ASPOR HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/60
+#EXTINF:-1 tvg-name="beIN Series 3" group-title="Dizi",beIN Series 3
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/219
 
- 4333. [TR-YEREL] TR: ASTV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51070
-
- 4334. [TR-ULUSAL] TR: ATV FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/46
-
- 4335. [TR-ULUSAL] TR: ATV HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/45
-
- 4336. [TR-YEREL] TR: Anadolu Dernek
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/62999
-
- 4337. [TR-COCUK] TR: BABY TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/295
-
- 4338. [TR-BELGESEL] TR: BBC Earth HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/258
-
- 4339. [TR-DIZI] TR: BBC First
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/165462
-
- 4340. [TR-BELGESEL] TR: BEIN GURME HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/271
-
- 4341. [TR-BELGESEL] TR: BEIN IZ HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/270
-
- 4342. [TR-SINEMA] TR: BEIN MOVIES PREMIER 2
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/234446
-
- 4343. [TR-SPOR] TR: BEIN SPORTS 2 HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/31408
-
- 4344. [TR-SPOR] TR: BEIN SPORTS 2 SD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/116675
-
- 4345. [TR-SPOR] TR: BEIN SPORTS 3 HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/31409
-
- 4346. [TR-SPOR] TR: BEIN SPORTS 3 SD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/116676
-
- 4347. [TR-SPOR] TR: BEIN SPORTS 4 SD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/116677
-
- 4348. [TR-ULUSAL] TR: BEYAZ TV FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/25
-
- 4349. [TR-ULUSAL] TR: BEYAZ TV HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/24
-
- 4350. [TR-SPOR] TR: BI TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/314376
-
- 4351. [TR-HABER] TR: BLOOMBERGHT FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50842
-
- 4352. [TR-HABER] TR: BLOOMBERGHT HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/137
-
- 4353. [TR-YEREL] TR: BLT TURK
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51072
-
- 4354. [TR-YEREL] TR: BR TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51073
-
- 4355. [TR-YEREL] TR: BRT 1
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50949
-
- 4356. [TR-YEREL] TR: BURSA LINE TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/264445
-
- 4357. [TR-SINEMA] TR: BeIN Box Office
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337661
-
- 4358. [TR-ULUSAL] TR: BeIN H&E
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/337662
-
- 4359. [TR-SPOR] TR: Bein Sports 1 (Yuksek Kalite) Mac Zamani
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/237081
-
- 4360. [TR-SPOR] TR: Bein Sports 2 (Yuksek Kalite) Mac Zamani
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/223132
-
- 4361. [TR-SPOR] TR: Bein Sports 3 (Yuksek Kalite) Mac Zamani
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/223133
-
- 4362. [TR-SPOR] TR: Bein Sports 4 (Yuksek Kalite) Mac Zamani
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/223134
-
- 4363. [TR-SPOR] TR: Bein Sports 5 (Yuksek Kalite) Mac Zamani
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/223135
-
- 4364. [TR-SPOR] TR: Bein Xtra
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/256065
-
- 4365. [TR-YEREL] TR: Bengu Turk
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/61595
-
- 4366. [TR-COCUK] TR: CARTOON NETWORK HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/301
-
- 4367. [TR-COCUK] TR: CARTOONITO
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/15020
-
- 4368. [TR-YEREL] TR: CAY TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50959
-
- 4369. [TR-YEREL] TR: CEM TV FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/126
-
- 4370. [TR-SINEMA] TR: CINE BOX HD 1
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/160
-
- 4371. [TR-SINEMA] TR: CINE BOX HD 2
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/159
-
- 4372. [TR-SINEMA] TR: CINE BOX HD 3
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/158
-
- 4373. [TR-SINEMA] TR: CINE BOX HD 4
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/157
-
- 4374. [TR-SINEMA] TR: CINE BOX HD 5
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/156
-
- 4375. [TR-SINEMA] TR: CINE BOX HD 6
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/155
-
- 4376. [TR-SINEMA] TR: CINE BOX HD 7
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/154
-
- 4377. [TR-SINEMA] TR: CINE BOX HD 8
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/230514
-
- 4378. [TR-SINEMA] TR: CINE VISION 1
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115709
-
- 4379. [TR-SINEMA] TR: CINE VISION 2
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115710
-
- 4380. [TR-SINEMA] TR: CINE VISION 3
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115711
-
- 4381. [TR-SINEMA] TR: CINE VISION 4
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115712
-
- 4382. [TR-SINEMA] TR: CINE VISION 5
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115713
-
- 4383. [TR-SINEMA] TR: CINE VISION 6
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115714
-
- 4384. [TR-ULUSAL] TR: CNBC-E
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/254694
-
- 4385. [TR-HABER] TR: CNN TURK FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/149
-
- 4386. [TR-HABER] TR: CNN TURK HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/150
-
- 4387. [TR-COCUK] TR: COCUK SMART
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/38394
-
- 4388. [TR-BELGESEL] TR: DA Vinci
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/253
-
- 4389. [TR-MUZIK] TR: DAMAR TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/41839
-
- 4390. [TR-YEREL] TR: DEHA TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51075
-
- 4391. [TR-YEREL] TR: DENIZPOSTASI TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51076
-
- 4392. [TR-YEREL] TR: DIM TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51077
-
- 4393. [TR-BELGESEL] TR: DISCOVERY CHANNEL
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/264
-
- 4394. [TR-BELGESEL] TR: DISCOVERY IDX
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/261
-
- 4395. [TR-COCUK] TR: DISNEY JR HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/291
-
- 4396. [TR-DINI] TR: DIYANET TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/59796
-
- 4397. [TR-BELGESEL] TR: DMAX FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/274
-
- 4398. [TR-DINI] TR: DOST TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50941
-
- 4399. [TR-MUZIK] TR: DREAM TURK HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/310
-
- 4400. [TR-COCUK] TR: DUCK TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/234451
-
- 4401. [TR-DIZI] TR: Dizismart Max
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/60119
-
- 4402. [TR-DIZI] TR: Dizismart Premium HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/218
-
- 4403. [TR-YEREL] TR: EDESSA TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/103454
-
- 4404. [TR-YEREL] TR: EGE TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50984
-
- 4405. [TR-YEREL] TR: EKO TURK
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/31415
-
- 4406. [TR-SPOR] TR: EKOL SPORTS
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/314140
-
- 4407. [TR-HABER] TR: EKOL TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/255109
-
- 4408. [TR-DIZI] TR: EPIC DRAMA
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50426
-
- 4409. [TR-YEREL] TR: ER TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51078
-
- 4410. [TR-YEREL] TR: ERT SAH TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51079
-
- 4411. [TR-SPOR] TR: EXXEN 1 FHD (MAC ZAMANI)
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/96896
-
- 4412. [TR-SPOR] TR: EXXEN 1 HD (MAC ZAMANI)
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/97466
-
- 4413. [TR-SPOR] TR: EXXEN 1 SD (MAC ZAMANI)
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/98582
-
- 4414. [TR-SPOR] TR: EXXEN 2 (MAC ZAMANI)
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/96972
-
- 4415. [TR-SPOR] TR: EXXEN 3 (MAC ZAMANI)
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/96973
-
- 4416. [TR-SPOR] TR: EXXEN 4 (MAC ZAMANI)
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/256328
-
- 4417. [TR-SPOR] TR: EXXEN 5 (MAC ZAMANI)
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/256329
-
- 4418. [TR-SPOR] TR: EXXEN 6 (MAC ZAMANI)
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/256330
-
- 4419. [TR-SPOR] TR: EXXEN 7 (MAC ZAMANI)
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/264314
-
- 4420. [TR-SPOR] TR: EXXEN 8 (MAC ZAMANI)
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/264315
-
- 4421. [TR-SPOR] TR: Eurosport 1 HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/65
-
- 4422. [TR-SPOR] TR: Eurosport 2 HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/64
-
- 4423. [TR-SPOR] TR: FBTV HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/57
-
- 4424. [TR-SINEMA] TR: FILM SCREEN
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/275983
-
- 4425. [TR-ULUSAL] TR: FLASH TV HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/99597
-
- 4426. [TR-YEREL] TR: FORTUNA TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222391
-
- 4427. [TR-YEREL] TR: FRT TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51080
-
- 4428. [TR-DIZI] TR: FX FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/12
-
- 4429. [TR-SINEMA] TR: Filmbox HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/66460
-
- 4430. [TR-YEREL] TR: GAZIANTEP OLAY TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222382
-
- 4431. [TR-YEREL] TR: GRT TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51082
-
- 4432. [TR-YEREL] TR: GUNEY TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222393
-
- 4433. [TR-YEREL] TR: GURBET24 TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222392
-
- 4434. [TR-YEREL] TR: HABER 61
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222394
-
- 4435. [TR-HABER] TR: HABER GLOBAL FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/40495
-
- 4436. [TR-HABER] TR: HABER GLOBAL HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232359
-
- 4437. [TR-HABER] TR: HABER TURK FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/147
-
- 4438. [TR-HABER] TR: HABER TURK HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/148
-
- 4439. [TR-BELGESEL] TR: HABITAT TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/78416
-
- 4440. [TR-HABER] TR: HALK TV FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/5
-
- 4441. [TR-HABER] TR: HALK TV HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232357
-
- 4442. [TR-MUZIK] TR: HIT MUZIK 90s
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222521
-
- 4443. [TR-MUZIK] TR: HIT MUZIK HALK
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222519
-
- 4444. [TR-MUZIK] TR: HIT MUZIK JAZZ
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222518
-
- 4445. [TR-MUZIK] TR: HIT MUZIK KLASIK
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222517
-
- 4446. [TR-MUZIK] TR: HIT MUZIK OZGUN
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222516
-
- 4447. [TR-MUZIK] TR: HIT MUZIK POP
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222520
-
- 4448. [TR-MUZIK] TR: HIT MUZIK RAP
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222515
-
- 4449. [TR-MUZIK] TR: HIT MUZIK ROCK
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222514
-
- 4450. [TR-MUZIK] TR: HIT MUZIK SANAT
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222513
-
- 4451. [TR-SPOR] TR: HT SPOR
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/246337
-
- 4452. [TR-YEREL] TR: IBB TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222390
-
- 4453. [TR-YEREL] TR: ILKE TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51083
-
- 4454. [TR-YEREL] TR: KANAL 15
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51084
-
- 4455. [TR-YEREL] TR: KANAL 23
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51085
-
- 4456. [TR-YEREL] TR: KANAL 26
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51086
-
- 4457. [TR-YEREL] TR: KANAL 3
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51087
-
- 4458. [TR-YEREL] TR: KANAL 33
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222376
-
- 4459. [TR-ULUSAL] TR: KANAL 7 FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/22
-
- 4460. [TR-ULUSAL] TR: KANAL 7 HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50845
-
- 4461. [TR-YEREL] TR: KANAL ANTALYA
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222388
-
- 4462. [TR-ULUSAL] TR: KANAL D FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/40
-
- 4463. [TR-ULUSAL] TR: KANAL D HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/39
-
- 4464. [TR-YEREL] TR: KANAL FIRAT
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51088
-
- 4465. [TR-YEREL] TR: KANAL URFA
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/103452
-
- 4466. [TR-YEREL] TR: KANAL Z
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51089
-
- 4467. [TR-YEREL] TR: KAY TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51091
-
- 4468. [TR-YEREL] TR: KAY TV KAYSERI
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222395
-
- 4469. [TR-YEREL] TR: KIBRIS GENC TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50952
-
- 4470. [YABANCI MUZIK] TR: KONSERLER
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/240402
-
- 4471. [TR-MUZIK] TR: KRALPOP
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/15012
-
- 4472. [TR-HABER] TR: KRT TV FHD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/15281
-
- 4473. [TR-HABER] TR: KRT TV HD
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232358
-
- 4474. [TR-DINI] TR: KUDUS TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50942
-
- 4475. [TR-YEREL] TR: LIFE TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51093
-
- 4476. [TR-SINEMA] TR: LOCA 1
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115706
-
- 4477. [TR-SINEMA] TR: LOCA 2
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115707
-
- 4478. [TR-SINEMA] TR: LOCA 3
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/115708
-
- 4479. [TR-BELGESEL] TR: LOVE NATURE
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50428
-
- 4480. [TR-DINI] TR: Lalegul
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/54675
-
- 4481. [TR-YEREL] TR: MAVI KARADENIZ
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/50996
-
- 4482. [TR-SPOR] TR: MAXSPORTS 1
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/61351
-
- 4483. [TR-SPOR] TR: MAXSPORTS 2
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/97877
-
- 4484. [TR-SPOR] TR: MAXSPORTS 3
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/106027
-
- 4485. [TR-SPOR] TR: MAXSPORTS 4 Formula 1
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/232435
-
- 4486. [TR-SPOR] TR: MAXSPORTS 5 Formula 1
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/247370
-
- 4487. [TR-SPOR] TR: MAXSPORTS 6 UFC
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/272922
-
- 4488. [TR-YEREL] TR: MERCAN TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/51094
-
- 4489. [TR-YEREL] TR: MERSIN ICEL TV
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/222383
-
- 4490. [TR-COCUK] TR: MINIBOX ASLAN
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249397
-
- 4491. [TR-COCUK] TR: MINIBOX BARBIE
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/60115
-
- 4492. [TR-COCUK] TR: MINIBOX BIZ IKIMIZ
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249396
-
- 4493. [TR-COCUK] TR: MINIBOX BULMACA KULESI
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249395
-
- 4494. [TR-COCUK] TR: MINIBOX CANIM KARDESIM
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10436
-
- 4495. [TR-COCUK] TR: MINIBOX CILLE
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249394
-
- 4496. [TR-COCUK] TR: MINIBOX DORU
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249393
-
- 4497. [TR-COCUK] TR: MINIBOX EGE ILE GAGA
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249392
-
- 4498. [TR-COCUK] TR: MINIBOX ELIF VE ARKADASLARI
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249390
-
- 4499. [TR-COCUK] TR: MINIBOX ELIFIN DUSLERI
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249391
-
- 4500. [TR-COCUK] TR: MINIBOX EMIRAY
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249389
-
- 4501. [TR-COCUK] TR: MINIBOX GRIZY VE LEMINGLER
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/60116
-
- 4502. [TR-COCUK] TR: MINIBOX IBI
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249387
-
- 4503. [TR-COCUK] TR: MINIBOX KAPTAN PENGU
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249386
-
- 4504. [TR-COCUK] TR: MINIBOX KARE
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249385
-
- 4505. [TR-COCUK] TR: MINIBOX KELOGLAN
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/10435
-
- 4506. [TR-COCUK] TR: MINIBOX KONUSAN TOM
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/60117
-
- 4507. [TR-COCUK] TR: MINIBOX KOSTEBEKGILLER
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/249384
-
- 4508. [TR-COCUK] TR: MINIBOX KRAL SAKIR
-       http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m
-#EXTINF:-1 tvg-name="A Spor" group-title="Ulusal Kanallar",A Spor
-https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
-#EXTINF:-1 tvg-name="A.Zverev - C.Moutet (05:00)" group-title="Maç Yayınları",A.Zverev - C.Moutet (05:00)
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="A2" group-title="Ulusal Kanallar",A2
-https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
-#EXTINF:-1 tvg-name="A2" group-title="Ulusal Kanallar",A2
-https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
-#EXTINF:-1 tvg-name="ABD (Bayanlar) - Japonya (Bayanlar) (15:55)" group-title="Maç Yayınları",ABD (Bayanlar) - Japonya (Bayanlar) (15:55)
-https://andro.2385437.xyz/checklist/androstreamlivech18445255.m3u8
-#EXTINF:-1 tvg-name="ABD (Bayanlar) - Japonya (Bayanlar) (15:55)" group-title="Maç Yayınları",ABD (Bayanlar) - Japonya (Bayanlar) (15:55)
-https://andro.2385437.xyz/checklist/androstreamlivech18445255.m3u8
-#EXTINF:-1 tvg-name="AGRO - SOCIO (17:52)" group-title="Maç Yayınları",AGRO - SOCIO (17:52)
-https://andro.2385437.xyz/checklist/androstreamlivech18445948.m3u8
-#EXTINF:-1 tvg-name="AGRO - SOCIO (17:52)" group-title="Maç Yayınları",AGRO - SOCIO (17:52)
-https://andro.2385437.xyz/checklist/androstreamlivech18445948.m3u8
-#EXTINF:-1 tvg-name="Airplane (3x3) - Kicker (3x3) (17:30)" group-title="Maç Yayınları",Airplane (3x3) - Kicker (3x3) (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18445960.m3u8
-#EXTINF:-1 tvg-name="Airplane (3x3) - Kicker (3x3) (17:30)" group-title="Maç Yayınları",Airplane (3x3) - Kicker (3x3) (17:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18445960.m3u8
-#EXTINF:-1 tvg-name="Aktöbe - Esil SK (16:30)" group-title="Maç Yayınları",Aktöbe - Esil SK (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18445516.m3u8
-#EXTINF:-1 tvg-name="Aktöbe - Esil SK (16:30)" group-title="Maç Yayınları",Aktöbe - Esil SK (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18445516.m3u8
-#EXTINF:-1 tvg-name="Al Najma - Al Nassr (22:00)" group-title="Maç Yayınları",Al Najma - Al Nassr (22:00)
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Al Taawon - Al Hilal (22:00)" group-title="Maç Yayınları",Al Taawon - Al Hilal (22:00)
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Alhussein Abdel Aziz/Ansari - Granwehr/Zucchini (17:00)" group-title="Maç Yayınları",Alhussein Abdel Aziz/Ansari - Granwehr/Zucchini (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445774.m3u8
-#EXTINF:-1 tvg-name="Alhussein Abdel Aziz/Ansari - Granwehr/Zucchini (17:00)" group-title="Maç Yayınları",Alhussein Abdel Aziz/Ansari - Granwehr/Zucchini (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445774.m3u8
-#EXTINF:-1 tvg-name="Andi And Friend - Artema (17:00)" group-title="Maç Yayınları",Andi And Friend - Artema (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445793.m3u8
-#EXTINF:-1 tvg-name="Andi And Friend - Artema (17:00)" group-title="Maç Yayınları",Andi And Friend - Artema (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445793.m3u8
-#EXTINF:-1 tvg-name="Areco - Humahuaca (17:48)" group-title="Maç Yayınları",Areco - Humahuaca (17:48)
-https://andro.2385437.xyz/checklist/androstreamlivech18445913.m3u8
-#EXTINF:-1 tvg-name="Areco - Humahuaca (17:48)" group-title="Maç Yayınları",Areco - Humahuaca (17:48)
-https://andro.2385437.xyz/checklist/androstreamlivech18445913.m3u8
-#EXTINF:-1 tvg-name="Arjantin - Mozambik (13:40)" group-title="Maç Yayınları",Arjantin - Mozambik (13:40)
-https://andro.2385437.xyz/checklist/androstreamlivech18445565.m3u8
-#EXTINF:-1 tvg-name="Arjantin - Mozambik (13:40)" group-title="Maç Yayınları",Arjantin - Mozambik (13:40)
-https://andro.2385437.xyz/checklist/androstreamlivech18445565.m3u8
-#EXTINF:-1 tvg-name="Atalanta - B.Dortmund (20:45)" group-title="Maç Yayınları",Atalanta - B.Dortmund (20:45)
-https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Atletico Madrid - Club Brugge (20:45)" group-title="Maç Yayınları",Atletico Madrid - Club Brugge (20:45)
-https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Atv" group-title="Ulusal Kanallar",Atv
-https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
-#EXTINF:-1 tvg-name="Atv" group-title="Ulusal Kanallar",Atv
-https://andro.2385437.xyz/checklist/androstreamliveatv.m3u8
-#EXTINF:-1 tvg-name="BC Slavjanka (Bayanlar) - CSU Cheboksary (Bayanlar) (17:00)" group-title="Maç Yayınları",BC Slavjanka (Bayanlar) - CSU Cheboksary (Bayanlar) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445740.m3u8
-#EXTINF:-1 tvg-name="BC Slavjanka (Bayanlar) - CSU Cheboksary (Bayanlar) (17:00)" group-title="Maç Yayınları",BC Slavjanka (Bayanlar) - CSU Cheboksary (Bayanlar) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445740.m3u8
-#EXTINF:-1 tvg-name="BIZ - ECO (17:14)" group-title="Maç Yayınları",BIZ - ECO (17:14)
-https://andro.2385437.xyz/checklist/androstreamlivech18445950.m3u8
-#EXTINF:-1 tvg-name="BIZ - ECO (17:14)" group-title="Maç Yayınları",BIZ - ECO (17:14)
-https://andro.2385437.xyz/checklist/androstreamlivech18445950.m3u8
-#EXTINF:-1 tvg-name="Bayer (Amatörler) - Eintracht (Amatörler) (17:24)" group-title="Maç Yayınları",Bayer (Amatörler) - Eintracht (Amatörler) (17:24)
-https://andro.2385437.xyz/checklist/androstreamlivech18445894.m3u8
-#EXTINF:-1 tvg-name="Bayer (Amatörler) - Eintracht (Amatörler) (17:24)" group-title="Maç Yayınları",Bayer (Amatörler) - Eintracht (Amatörler) (17:24)
-https://andro.2385437.xyz/checklist/androstreamlivech18445894.m3u8
-#EXTINF:-1 tvg-name="Bayer Leverkusen - Olympiakos (23:00)" group-title="Maç Yayınları",Bayer Leverkusen - Olympiakos (23:00)
-https://andro.2385437.xyz/checklist/androstreamlivetb1.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
-https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 1" group-title="BeinSports",BeIN Sports 1
-https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BeIN Sports 2
-https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="BeinSports",BeIN Sports 2
-https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 3" group-title="BeinSports",BeIN Sports 3
-https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 3" group-title="BeinSports",BeIN Sports 3
-https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 4" group-title="BeinSports",BeIN Sports 4
-https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 4" group-title="BeinSports",BeIN Sports 4
-https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 5" group-title="BeinSports",BeIN Sports 5
-https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 5" group-title="BeinSports",BeIN Sports 5
-https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports Max 1" group-title="BeinSports",BeIN Sports Max 1
-https://andro.2385437.xyz/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports Max 1" group-title="BeinSports",BeIN Sports Max 1
-https://andro.2385437.xyz/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports Max 2" group-title="BeinSports",BeIN Sports Max 2
-https://andro.2385437.xyz/checklist/androstreamlivebsm2.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports Max 2" group-title="BeinSports",BeIN Sports Max 2
-https://andro.2385437.xyz/checklist/androstreamlivebsm2.m3u8
-#EXTINF:-1 tvg-name="Bhayangkara Surabaya United - Semen Padang II (16:30)" group-title="Maç Yayınları",Bhayangkara Surabaya United - Semen Padang II (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech295762198491598848.m3u8
-#EXTINF:-1 tvg-name="Bhayangkara Surabaya United - Semen Padang II (16:30)" group-title="Maç Yayınları",Bhayangkara Surabaya United - Semen Padang II (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech295762198491598848.m3u8
-#EXTINF:-1 tvg-name="Brian Bozemoj - Patrik Homola (16:30)" group-title="Maç Yayınları",Brian Bozemoj - Patrik Homola (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18445541.m3u8
-#EXTINF:-1 tvg-name="Brian Bozemoj - Patrik Homola (16:30)" group-title="Maç Yayınları",Brian Bozemoj - Patrik Homola (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18445541.m3u8
-#EXTINF:-1 tvg-name="Burgas+ - Valladolid+ (17:17)" group-title="Maç Yayınları",Burgas+ - Valladolid+ (17:17)
-https://andro.2385437.xyz/checklist/androstreamlivech18445900.m3u8
-#EXTINF:-1 tvg-name="Burgas+ - Valladolid+ (17:17)" group-title="Maç Yayınları",Burgas+ - Valladolid+ (17:17)
-https://andro.2385437.xyz/checklist/androstreamlivech18445900.m3u8
-#EXTINF:-1 tvg-name="C.Brace - Zeynep Sönmez (03:00)" group-title="Maç Yayınları",C.Brace - Zeynep Sönmez (03:00)
-https://andro.2385437.xyz/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-name="C.Osorio - J.Tjen (23:00)" group-title="Maç Yayınları",C.Osorio - J.Tjen (23:00)
-https://andro.2385437.xyz/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-name="C.Ruud - Y.Wu (06:00)" group-title="Maç Yayınları",C.Ruud - Y.Wu (06:00)
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Calabar+ - Namur+ (17:39)" group-title="Maç Yayınları",Calabar+ - Namur+ (17:39)
-https://andro.2385437.xyz/checklist/androstreamlivech18445926.m3u8
-#EXTINF:-1 tvg-name="Calabar+ - Namur+ (17:39)" group-title="Maç Yayınları",Calabar+ - Namur+ (17:39)
-https://andro.2385437.xyz/checklist/androstreamlivech18445926.m3u8
-#EXTINF:-1 tvg-name="Cbc Sport" group-title="Diğer",Cbc Sport
-https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
-#EXTINF:-1 tvg-name="Cbc Sport" group-title="Diğer",Cbc Sport
-https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
-#EXTINF:-1 tvg-name="Charge - Red Claws (16:45)" group-title="Maç Yayınları",Charge - Red Claws (16:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445530.m3u8
-#EXTINF:-1 tvg-name="Charge - Red Claws (16:45)" group-title="Maç Yayınları",Charge - Red Claws (16:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445530.m3u8
-#EXTINF:-1 tvg-name="Chloe Paquet - Naiktha Bains (15:05)" group-title="Maç Yayınları",Chloe Paquet - Naiktha Bains (15:05)
-https://andro.2385437.xyz/checklist/androstreamlivech18444908.m3u8
-#EXTINF:-1 tvg-name="Chloe Paquet - Naiktha Bains (15:05)" group-title="Maç Yayınları",Chloe Paquet - Naiktha Bains (15:05)
-https://andro.2385437.xyz/checklist/androstreamlivech18444908.m3u8
-#EXTINF:-1 tvg-name="Cleveland Cavaliers - New York Knicks (03:30)" group-title="Maç Yayınları",Cleveland Cavaliers - New York Knicks (03:30)
-https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="Croat (2x2) - Gold (2x2) (17:58)" group-title="Maç Yayınları",Croat (2x2) - Gold (2x2) (17:58)
-https://andro.2385437.xyz/checklist/androstreamlivech18445945.m3u8
-#EXTINF:-1 tvg-name="Croat (2x2) - Gold (2x2) (17:58)" group-title="Maç Yayınları",Croat (2x2) - Gold (2x2) (17:58)
-https://andro.2385437.xyz/checklist/androstreamlivech18445945.m3u8
-#EXTINF:-1 tvg-name="Croatia (TBL) - Uruguay (TBL) (16:45)" group-title="Maç Yayınları",Croatia (TBL) - Uruguay (TBL) (16:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445617.m3u8
-#EXTINF:-1 tvg-name="Croatia (TBL) - Uruguay (TBL) (16:45)" group-title="Maç Yayınları",Croatia (TBL) - Uruguay (TBL) (16:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445617.m3u8
-#EXTINF:-1 tvg-name="Daniel Dutra da Silva - Andrea Collarini (15:45)" group-title="Maç Yayınları",Daniel Dutra da Silva - Andrea Collarini (15:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445290.m3u8
-#EXTINF:-1 tvg-name="Daniel Dutra da Silva - Andrea Collarini (15:45)" group-title="Maç Yayınları",Daniel Dutra da Silva - Andrea Collarini (15:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445290.m3u8
-#EXTINF:-1 tvg-name="Danube Thunder - Adriatic Hurricanes II (16:40)" group-title="Maç Yayınları",Danube Thunder - Adriatic Hurricanes II (16:40)
-https://andro.2385437.xyz/checklist/androstreamlivech296113427041259520.m3u8
-#EXTINF:-1 tvg-name="Danube Thunder - Adriatic Hurricanes II (16:40)" group-title="Maç Yayınları",Danube Thunder - Adriatic Hurricanes II (16:40)
-https://andro.2385437.xyz/checklist/androstreamlivech296113427041259520.m3u8
-#EXTINF:-1 tvg-name="Emmen (Amaörler) - Fortuna (Amatörler) (17:50)" group-title="Maç Yayınları",Emmen (Amaörler) - Fortuna (Amatörler) (17:50)
-https://andro.2385437.xyz/checklist/androstreamlivech18445844.m3u8
-#EXTINF:-1 tvg-name="Emmen (Amaörler) - Fortuna (Amatörler) (17:50)" group-title="Maç Yayınları",Emmen (Amaörler) - Fortuna (Amatörler) (17:50)
-https://andro.2385437.xyz/checklist/androstreamlivech18445844.m3u8
-#EXTINF:-1 tvg-name="Eunhye Lee - Lea Boskovic (17:00)" group-title="Maç Yayınları",Eunhye Lee - Lea Boskovic (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445723.m3u8
-#EXTINF:-1 tvg-name="Eunhye Lee - Lea Boskovic (17:00)" group-title="Maç Yayınları",Eunhye Lee - Lea Boskovic (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445723.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 1" group-title="Diğer Kanallar",Euro Sport 1
-https://andro.2385437.xyz/checklist/androstreamlivees1.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 1" group-title="Diğer Kanallar",Euro Sport 1
-https://andro.2385437.xyz/checklist/androstreamlivees1.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 2" group-title="Diğer Kanallar",Euro Sport 2
-https://andro.2385437.xyz/checklist/androstreamlivees2.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 2" group-title="Diğer Kanallar",Euro Sport 2
-https://andro.2385437.xyz/checklist/androstreamlivees2.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 1" group-title="Exxen",Exxen Sports 1
-https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 1" group-title="Exxen",Exxen Sports 1
-https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 2" group-title="Exxen",Exxen Sports 2
-https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 2" group-title="Exxen",Exxen Sports 2
-https://andro.2385437.xyz/checklist/androstreamliveexn2.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 3" group-title="Exxen",Exxen Sports 3
-https://andro.2385437.xyz/checklist/androstreamliveexn3.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 3" group-title="Exxen",Exxen Sports 3
-https://andro.2385437.xyz/checklist/androstreamliveexn3.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 4" group-title="Exxen",Exxen Sports 4
-https://andro.2385437.xyz/checklist/androstreamliveexn4.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 4" group-title="Exxen",Exxen Sports 4
-https://andro.2385437.xyz/checklist/androstreamliveexn4.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 5" group-title="Exxen",Exxen Sports 5
-https://andro.2385437.xyz/checklist/androstreamliveexn5.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 5" group-title="Exxen",Exxen Sports 5
-https://andro.2385437.xyz/checklist/androstreamliveexn5.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 6" group-title="Exxen",Exxen Sports 6
-https://andro.2385437.xyz/checklist/androstreamliveexn6.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 6" group-title="Exxen",Exxen Sports 6
-https://andro.2385437.xyz/checklist/androstreamliveexn6.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 7" group-title="Exxen",Exxen Sports 7
-https://andro.2385437.xyz/checklist/androstreamliveexn7.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 7" group-title="Exxen",Exxen Sports 7
-https://andro.2385437.xyz/checklist/androstreamliveexn7.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 8" group-title="Exxen",Exxen Sports 8
-https://andro.2385437.xyz/checklist/androstreamliveexn8.m3u8
-#EXTINF:-1 tvg-name="Exxen Sports 8" group-title="Exxen",Exxen Sports 8
-https://andro.2385437.xyz/checklist/androstreamliveexn8.m3u8
-#EXTINF:-1 tvg-name="Exxen Tv" group-title="Exxen",Exxen Tv
-https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 tvg-name="Exxen Tv" group-title="Exxen",Exxen Tv
-https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 tvg-name="Fb Tv" group-title="Diğer",Fb Tv
-https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
-#EXTINF:-1 tvg-name="Fb Tv" group-title="Diğer",Fb Tv
-https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
-#EXTINF:-1 tvg-name="Fenerbahçe Beko - Partizan (20:45)" group-title="Maç Yayınları",Fenerbahçe Beko - Partizan (20:45)
-https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="Fransa (Pro) - Avustralya (Pro) (16:55)" group-title="Maç Yayınları",Fransa (Pro) - Avustralya (Pro) (16:55)
-https://andro.2385437.xyz/checklist/androstreamlivech18445628.m3u8
-#EXTINF:-1 tvg-name="Fransa (Pro) - Avustralya (Pro) (16:55)" group-title="Maç Yayınları",Fransa (Pro) - Avustralya (Pro) (16:55)
-https://andro.2385437.xyz/checklist/androstreamlivech18445628.m3u8
-#EXTINF:-1 tvg-name="Gs Tv" group-title="Diğer",Gs Tv
-https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
-#EXTINF:-1 tvg-name="Gs Tv" group-title="Diğer",Gs Tv
-https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
-#EXTINF:-1 tvg-name="Halkbank - Fenerbahçe Medicana (15:00)" group-title="Maç Yayınları",Halkbank - Fenerbahçe Medicana (15:00)
-https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 tvg-name="Hibah Shaikh - Matilde Jorge (16:30)" group-title="Maç Yayınları",Hibah Shaikh - Matilde Jorge (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18445468.m3u8
-#EXTINF:-1 tvg-name="Hibah Shaikh - Matilde Jorge (16:30)" group-title="Maç Yayınları",Hibah Shaikh - Matilde Jorge (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18445468.m3u8
-#EXTINF:-1 tvg-name="Ht Spor" group-title="Spor",Ht Spor
-https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
-#EXTINF:-1 tvg-name="Ht Spor" group-title="Spor",Ht Spor
-https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
-#EXTINF:-1 tvg-name="India (TBL) - Sırbistan (TBL) (16:45)" group-title="Maç Yayınları",India (TBL) - Sırbistan (TBL) (16:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445619.m3u8
-#EXTINF:-1 tvg-name="India (TBL) - Sırbistan (TBL) (16:45)" group-title="Maç Yayınları",India (TBL) - Sırbistan (TBL) (16:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445619.m3u8
-#EXTINF:-1 tvg-name="Inter - Bodo Glimt (23:00)" group-title="Maç Yayınları",Inter - Bodo Glimt (23:00)
-https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Inter Milan U19 - Real Betis Balompie Under 19 II (16:00)" group-title="Maç Yayınları",Inter Milan U19 - Real Betis Balompie Under 19 II (16:00)
-https://andro.2385437.xyz/checklist/androstreamlivech296026590646931456.m3u8
-#EXTINF:-1 tvg-name="Inter Milan U19 - Real Betis Balompie Under 19 II (16:00)" group-title="Maç Yayınları",Inter Milan U19 - Real Betis Balompie Under 19 II (16:00)
-https://andro.2385437.xyz/checklist/androstreamlivech296026590646931456.m3u8
-#EXTINF:-1 tvg-name="Isabella Shinikova - Olivia Gadecki (17:00)" group-title="Maç Yayınları",Isabella Shinikova - Olivia Gadecki (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445807.m3u8
-#EXTINF:-1 tvg-name="Isabella Shinikova - Olivia Gadecki (17:00)" group-title="Maç Yayınları",Isabella Shinikova - Olivia Gadecki (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445807.m3u8
-#EXTINF:-1 tvg-name="Ispanya (Prime) - Fransa (Mevis) (17:57)" group-title="Maç Yayınları",Ispanya (Prime) - Fransa (Mevis) (17:57)
-https://andro.2385437.xyz/checklist/androstreamlivech18445928.m3u8
-#EXTINF:-1 tvg-name="Ispanya (Prime) - Fransa (Mevis) (17:57)" group-title="Maç Yayınları",Ispanya (Prime) - Fransa (Mevis) (17:57)
-https://andro.2385437.xyz/checklist/androstreamlivech18445928.m3u8
-#EXTINF:-1 tvg-name="Jebson/Rud - Kamynin/Kapustiuk (17:10)" group-title="Maç Yayınları",Jebson/Rud - Kamynin/Kapustiuk (17:10)
-https://andro.2385437.xyz/checklist/androstreamlivech18445764.m3u8
-#EXTINF:-1 tvg-name="Jebson/Rud - Kamynin/Kapustiuk (17:10)" group-title="Maç Yayınları",Jebson/Rud - Kamynin/Kapustiuk (17:10)
-https://andro.2385437.xyz/checklist/androstreamlivech18445764.m3u8
-#EXTINF:-1 tvg-name="Jecan/Ricca - Hilderbrand/Cukierman (16:45)" group-title="Maç Yayınları",Jecan/Ricca - Hilderbrand/Cukierman (16:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445635.m3u8
-#EXTINF:-1 tvg-name="Jecan/Ricca - Hilderbrand/Cukierman (16:45)" group-title="Maç Yayınları",Jecan/Ricca - Hilderbrand/Cukierman (16:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445635.m3u8
-#EXTINF:-1 tvg-name="Juan Bautista Torres - Gonzalo Bueno (17:15)" group-title="Maç Yayınları",Juan Bautista Torres - Gonzalo Bueno (17:15)
-https://andro.2385437.xyz/checklist/androstreamlivech18445874.m3u8
-#EXTINF:-1 tvg-name="Juan Bautista Torres - Gonzalo Bueno (17:15)" group-title="Maç Yayınları",Juan Bautista Torres - Gonzalo Bueno (17:15)
-https://andro.2385437.xyz/checklist/androstreamlivech18445874.m3u8
-#EXTINF:-1 tvg-name="Juan Estevez - Carlos Sanchez Jover (15:45)" group-title="Maç Yayınları",Juan Estevez - Carlos Sanchez Jover (15:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445379.m3u8
-#EXTINF:-1 tvg-name="Juan Estevez - Carlos Sanchez Jover (15:45)" group-title="Maç Yayınları",Juan Estevez - Carlos Sanchez Jover (15:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445379.m3u8
-#EXTINF:-1 tvg-name="Juventus - Galatasaray (23:00)" group-title="Maç Yayınları",Juventus - Galatasaray (23:00)
-https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
-#EXTINF:-1 tvg-name="Kali Supova - Yuriko Miyazaki (17:15)" group-title="Maç Yayınları",Kali Supova - Yuriko Miyazaki (17:15)
-https://andro.2385437.xyz/checklist/androstreamlivech18445882.m3u8
-#EXTINF:-1 tvg-name="Kali Supova - Yuriko Miyazaki (17:15)" group-title="Maç Yayınları",Kali Supova - Yuriko Miyazaki (17:15)
-https://andro.2385437.xyz/checklist/androstreamlivech18445882.m3u8
-#EXTINF:-1 tvg-name="Kaysar - FA 2000 (17:21)" group-title="Maç Yayınları",Kaysar - FA 2000 (17:21)
-https://andro.2385437.xyz/checklist/androstreamlivech18445341.m3u8
-#EXTINF:-1 tvg-name="Kaysar - FA 2000 (17:21)" group-title="Maç Yayınları",Kaysar - FA 2000 (17:21)
-https://andro.2385437.xyz/checklist/androstreamlivech18445341.m3u8
-#EXTINF:-1 tvg-name="Kizilyildiz - Anadolu Efes (22:30)" group-title="Maç Yayınları",Kizilyildiz - Anadolu Efes (22:30)
-https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-name="LA Lakers - Orlando Magic (06:30)" group-title="Maç Yayınları",LA Lakers - Orlando Magic (06:30)
-https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="Lightning - Interrupted Water Flow (17:00)" group-title="Maç Yayınları",Lightning - Interrupted Water Flow (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445808.m3u8
-#EXTINF:-1 tvg-name="Lightning - Interrupted Water Flow (17:00)" group-title="Maç Yayınları",Lightning - Interrupted Water Flow (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445808.m3u8
-#EXTINF:-1 tvg-name="Luca Nardi - Jiri Lehecka (17:15)" group-title="Maç Yayınları",Luca Nardi - Jiri Lehecka (17:15)
-https://andro.2385437.xyz/checklist/androstreamlivech18445801.m3u8
-#EXTINF:-1 tvg-name="Luca Nardi - Jiri Lehecka (17:15)" group-title="Maç Yayınları",Luca Nardi - Jiri Lehecka (17:15)
-https://andro.2385437.xyz/checklist/androstreamlivech18445801.m3u8
-#EXTINF:-1 tvg-name="Luca Nardi - Jiri Lehecka II (17:10)" group-title="Maç Yayınları",Luca Nardi - Jiri Lehecka II (17:10)
-https://andro.2385437.xyz/checklist/androstreamlivech296120869419520000.m3u8
-#EXTINF:-1 tvg-name="Luca Nardi - Jiri Lehecka II (17:10)" group-title="Maç Yayınları",Luca Nardi - Jiri Lehecka II (17:10)
-https://andro.2385437.xyz/checklist/androstreamlivech296120869419520000.m3u8
-#EXTINF:-1 tvg-name="Manchester City (Alpaka) - Bayern (Tailer) (17:29)" group-title="Maç Yayınları",Manchester City (Alpaka) - Bayern (Tailer) (17:29)
-https://andro.2385437.xyz/checklist/androstreamlivech18445701.m3u8
-#EXTINF:-1 tvg-name="Manchester City (Alpaka) - Bayern (Tailer) (17:29)" group-title="Maç Yayınları",Manchester City (Alpaka) - Bayern (Tailer) (17:29)
-https://andro.2385437.xyz/checklist/androstreamlivech18445701.m3u8
-#EXTINF:-1 tvg-name="Matteo Martineau - Antoine Ghibaudo (14:45)" group-title="Maç Yayınları",Matteo Martineau - Antoine Ghibaudo (14:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18444812.m3u8
-#EXTINF:-1 tvg-name="Matteo Martineau - Antoine Ghibaudo (14:45)" group-title="Maç Yayınları",Matteo Martineau - Antoine Ghibaudo (14:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18444812.m3u8
-#EXTINF:-1 tvg-name="Metalurg Magnitogorsk (Bayanlar) - WBC Spartak Noginsk (Bayanlar) (17:00)" group-title="Maç Yayınları",Metalurg Magnitogorsk (Bayanlar) - WBC Spartak Noginsk (Bayanlar) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445741.m3u8
-#EXTINF:-1 tvg-name="Metalurg Magnitogorsk (Bayanlar) - WBC Spartak Noginsk (Bayanlar) (17:00)" group-title="Maç Yayınları",Metalurg Magnitogorsk (Bayanlar) - WBC Spartak Noginsk (Bayanlar) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445741.m3u8
-#EXTINF:-1 tvg-name="Monsters FB - Orioles FB (17:35)" group-title="Maç Yayınları",Monsters FB - Orioles FB (17:35)
-https://andro.2385437.xyz/checklist/androstreamlivech18445905.m3u8
-#EXTINF:-1 tvg-name="Monsters FB - Orioles FB (17:35)" group-title="Maç Yayınları",Monsters FB - Orioles FB (17:35)
-https://andro.2385437.xyz/checklist/androstreamlivech18445905.m3u8
-#EXTINF:-1 tvg-name="Muni de Gral. San Martin (W) - San Jose (W) II (17:00)" group-title="Maç Yayınları",Muni de Gral. San Martin (W) - San Jose (W) II (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech296112849104965632.m3u8
-#EXTINF:-1 tvg-name="Muni de Gral. San Martin (W) - San Jose (W) II (17:00)" group-title="Maç Yayınları",Muni de Gral. San Martin (W) - San Jose (W) II (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech296112849104965632.m3u8
-#EXTINF:-1 tvg-name="Municipalidad de Gral San Martin (Bayanlar) - Club San Jose (Bayanlar) (17:00)" group-title="Maç Yayınları",Municipalidad de Gral San Martin (Bayanlar) - Club San Jose (Bayanlar) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445705.m3u8
-#EXTINF:-1 tvg-name="Municipalidad de Gral San Martin (Bayanlar) - Club San Jose (Bayanlar) (17:00)" group-title="Maç Yayınları",Municipalidad de Gral San Martin (Bayanlar) - Club San Jose (Bayanlar) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445705.m3u8
-#EXTINF:-1 tvg-name="NM Store - ONPZ (17:21)" group-title="Maç Yayınları",NM Store - ONPZ (17:21)
-https://andro.2385437.xyz/checklist/androstreamlivech18445875.m3u8
-#EXTINF:-1 tvg-name="NM Store - ONPZ (17:21)" group-title="Maç Yayınları",NM Store - ONPZ (17:21)
-https://andro.2385437.xyz/checklist/androstreamlivech18445875.m3u8
-#EXTINF:-1 tvg-name="Nalchik - Belgorod (17:09)" group-title="Maç Yayınları",Nalchik - Belgorod (17:09)
-https://andro.2385437.xyz/checklist/androstreamlivech18445734.m3u8
-#EXTINF:-1 tvg-name="Nalchik - Belgorod (17:09)" group-title="Maç Yayınları",Nalchik - Belgorod (17:09)
-https://andro.2385437.xyz/checklist/androstreamlivech18445734.m3u8
-#EXTINF:-1 tvg-name="Nba Tv" group-title="Spor",Nba Tv
-https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
-#EXTINF:-1 tvg-name="Nba Tv" group-title="Spor",Nba Tv
-https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
-#EXTINF:-1 tvg-name="Newcastle - Karabağ (23:00)" group-title="Maç Yayınları",Newcastle - Karabağ (23:00)
-https://andro.2385437.xyz/checklist/androstreamlivetb2.m3u8
-#EXTINF:-1 tvg-name="Norbert Gombos - Lucas Poullain (16:00)" group-title="Maç Yayınları",Norbert Gombos - Lucas Poullain (16:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445349.m3u8
-#EXTINF:-1 tvg-name="Norbert Gombos - Lucas Poullain (16:00)" group-title="Maç Yayınları",Norbert Gombos - Lucas Poullain (16:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445349.m3u8
-#EXTINF:-1 tvg-name="Novokuznetsk (Bayanlar) - Izhevsk (Bayanlar) (17:03)" group-title="Maç Yayınları",Novokuznetsk (Bayanlar) - Izhevsk (Bayanlar) (17:03)
-https://andro.2385437.xyz/checklist/androstreamlivech18445703.m3u8
-#EXTINF:-1 tvg-name="Novokuznetsk (Bayanlar) - Izhevsk (Bayanlar) (17:03)" group-title="Maç Yayınları",Novokuznetsk (Bayanlar) - Izhevsk (Bayanlar) (17:03)
-https://andro.2385437.xyz/checklist/androstreamlivech18445703.m3u8
-#EXTINF:-1 tvg-name="Odisha FC - Inter Kashi FC II (17:00)" group-title="Maç Yayınları",Odisha FC - Inter Kashi FC II (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech296032400898822144.m3u8
-#EXTINF:-1 tvg-name="Odisha FC - Inter Kashi FC II (17:00)" group-title="Maç Yayınları",Odisha FC - Inter Kashi FC II (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech296032400898822144.m3u8
-#EXTINF:-1 tvg-name="Otto Virtanen - Tallon Griekspoor (17:00)" group-title="Maç Yayınları",Otto Virtanen - Tallon Griekspoor (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445773.m3u8
-#EXTINF:-1 tvg-name="Otto Virtanen - Tallon Griekspoor (17:00)" group-title="Maç Yayınları",Otto Virtanen - Tallon Griekspoor (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445773.m3u8
-#EXTINF:-1 tvg-name="Otto Virtanen - Tallon Griekspoor II (17:05)" group-title="Maç Yayınları",Otto Virtanen - Tallon Griekspoor II (17:05)
-https://andro.2385437.xyz/checklist/androstreamlivech295939337147944960.m3u8
-#EXTINF:-1 tvg-name="Otto Virtanen - Tallon Griekspoor II (17:05)" group-title="Maç Yayınları",Otto Virtanen - Tallon Griekspoor II (17:05)
-https://andro.2385437.xyz/checklist/androstreamlivech295939337147944960.m3u8
-#EXTINF:-1 tvg-name="P.Hon - R.Zarazua (05:00)" group-title="Maç Yayınları",P.Hon - R.Zarazua (05:00)
-https://andro.2385437.xyz/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-name="PSG - Monaco (23:00)" group-title="Maç Yayınları",PSG - Monaco (23:00)
-https://andro.2385437.xyz/checklist/androstreamlivetb1.m3u8
-#EXTINF:-1 tvg-name="Real Madrid - Benfica (23:00)" group-title="Maç Yayınları",Real Madrid - Benfica (23:00)
-https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Real Madrid - Chelsea (18:00)" group-title="Maç Yayınları",Real Madrid - Chelsea (18:00)
-https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 tvg-name="Rusya - Brezilya (16:25)" group-title="Maç Yayınları",Rusya - Brezilya (16:25)
-https://andro.2385437.xyz/checklist/androstreamlivech18445467.m3u8
-#EXTINF:-1 tvg-name="Rusya - Brezilya (16:25)" group-title="Maç Yayınları",Rusya - Brezilya (16:25)
-https://andro.2385437.xyz/checklist/androstreamlivech18445467.m3u8
-#EXTINF:-1 tvg-name="Rusya - Japonya (15:35)" group-title="Maç Yayınları",Rusya - Japonya (15:35)
-https://andro.2385437.xyz/checklist/androstreamlivech18445142.m3u8
-#EXTINF:-1 tvg-name="Rusya - Japonya (15:35)" group-title="Maç Yayınları",Rusya - Japonya (15:35)
-https://andro.2385437.xyz/checklist/androstreamlivech18445142.m3u8
-#EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
-https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
-https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
-https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-name="S Sport 2" group-title="S Sports",S Sport 2
-https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-name="S Sport Plus" group-title="S Sports",S Sport Plus
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="S Sport Plus" group-title="S Sports",S Sport Plus
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Salyut Belgorod - Spartak Nalchik (16:00)" group-title="Maç Yayınları",Salyut Belgorod - Spartak Nalchik (16:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445326.m3u8
-#EXTINF:-1 tvg-name="Salyut Belgorod - Spartak Nalchik (16:00)" group-title="Maç Yayınları",Salyut Belgorod - Spartak Nalchik (16:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445326.m3u8
-#EXTINF:-1 tvg-name="Santa Felicia - Leones de la Lisa (17:56)" group-title="Maç Yayınları",Santa Felicia - Leones de la Lisa (17:56)
-https://andro.2385437.xyz/checklist/androstreamlivech18445101.m3u8
-#EXTINF:-1 tvg-name="Santa Felicia - Leones de la Lisa (17:56)" group-title="Maç Yayınları",Santa Felicia - Leones de la Lisa (17:56)
-https://andro.2385437.xyz/checklist/androstreamlivech18445101.m3u8
-#EXTINF:-1 tvg-name="Shanghai Fives - Kunming Monks (17:10)" group-title="Maç Yayınları",Shanghai Fives - Kunming Monks (17:10)
-https://andro.2385437.xyz/checklist/androstreamlivech18445751.m3u8
-#EXTINF:-1 tvg-name="Shanghai Fives - Kunming Monks (17:10)" group-title="Maç Yayınları",Shanghai Fives - Kunming Monks (17:10)
-https://andro.2385437.xyz/checklist/androstreamlivech18445751.m3u8
-#EXTINF:-1 tvg-name="Skywalkers - Martians (17:00)" group-title="Maç Yayınları",Skywalkers - Martians (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445677.m3u8
-#EXTINF:-1 tvg-name="Skywalkers - Martians (17:00)" group-title="Maç Yayınları",Skywalkers - Martians (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445677.m3u8
-#EXTINF:-1 tvg-name="Slovakya - Küba (13:50)" group-title="Maç Yayınları",Slovakya - Küba (13:50)
-https://andro.2385437.xyz/checklist/androstreamlivech18445656.m3u8
-#EXTINF:-1 tvg-name="Slovakya - Küba (13:50)" group-title="Maç Yayınları",Slovakya - Küba (13:50)
-https://andro.2385437.xyz/checklist/androstreamlivech18445656.m3u8
-#EXTINF:-1 tvg-name="Smart Spor 1" group-title="Spor",Smart Spor 1
-https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-name="Smart Spor 1" group-title="Spor",Smart Spor 1
-https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-name="Smart Spor 2" group-title="Spor",Smart Spor 2
-https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 tvg-name="Smart Spor 2" group-title="Spor",Smart Spor 2
-https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 tvg-name="Sports Tv" group-title="Spor",Sports Tv
-https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
-#EXTINF:-1 tvg-name="Sports Tv" group-title="Spor",Sports Tv
-https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
-#EXTINF:-1 tvg-name="St. Pauli (Amatörler) - 1. Kaiserslautern (Amatörler) (17:49)" group-title="Maç Yayınları",St. Pauli (Amatörler) - 1. Kaiserslautern (Amatörler) (17:49)
-https://andro.2385437.xyz/checklist/androstreamlivech18445895.m3u8
-#EXTINF:-1 tvg-name="St. Pauli (Amatörler) - 1. Kaiserslautern (Amatörler) (17:49)" group-title="Maç Yayınları",St. Pauli (Amatörler) - 1. Kaiserslautern (Amatörler) (17:49)
-https://andro.2385437.xyz/checklist/androstreamlivech18445895.m3u8
-#EXTINF:-1 tvg-name="Swish U22 - Brooklyn Tbilisi U22 (17:00)" group-title="Maç Yayınları",Swish U22 - Brooklyn Tbilisi U22 (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445746.m3u8
-#EXTINF:-1 tvg-name="Swish U22 - Brooklyn Tbilisi U22 (17:00)" group-title="Maç Yayınları",Swish U22 - Brooklyn Tbilisi U22 (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445746.m3u8
-#EXTINF:-1 tvg-name="Sırbistan (Bayanlar) - ABD (Bayanlar) (15:45)" group-title="Maç Yayınları",Sırbistan (Bayanlar) - ABD (Bayanlar) (15:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445193.m3u8
-#EXTINF:-1 tvg-name="Sırbistan (Bayanlar) - ABD (Bayanlar) (15:45)" group-title="Maç Yayınları",Sırbistan (Bayanlar) - ABD (Bayanlar) (15:45)
-https://andro.2385437.xyz/checklist/androstreamlivech18445193.m3u8
-#EXTINF:-1 tvg-name="T.Atmane - G.Dimitrov (03:00)" group-title="Maç Yayınları",T.Atmane - G.Dimitrov (03:00)
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor" group-title="Diğer Kanallar",Tabi Spor
-https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor" group-title="Diğer Kanallar",Tabi Spor
-https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 1" group-title="Diğer Kanallar",Tabi Spor 1
-https://andro.2385437.xyz/checklist/androstreamlivetb1.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 1" group-title="Diğer Kanallar",Tabi Spor 1
-https://andro.2385437.xyz/checklist/androstreamlivetb1.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 2" group-title="Diğer Kanallar",Tabi Spor 2
-https://andro.2385437.xyz/checklist/androstreamlivetb2.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 2" group-title="Diğer Kanallar",Tabi Spor 2
-https://andro.2385437.xyz/checklist/androstreamlivetb2.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 3" group-title="Diğer Kanallar",Tabi Spor 3
-https://andro.2385437.xyz/checklist/androstreamlivetb3.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 3" group-title="Diğer Kanallar",Tabi Spor 3
-https://andro.2385437.xyz/checklist/androstreamlivetb3.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 4" group-title="Diğer Kanallar",Tabi Spor 4
-https://andro.2385437.xyz/checklist/androstreamlivetb4.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 4" group-title="Diğer Kanallar",Tabi Spor 4
-https://andro.2385437.xyz/checklist/androstreamlivetb4.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 5" group-title="Diğer Kanallar",Tabi Spor 5
-https://andro.2385437.xyz/checklist/androstreamlivetb5.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 5" group-title="Diğer Kanallar",Tabi Spor 5
-https://andro.2385437.xyz/checklist/androstreamlivetb5.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 6" group-title="Diğer Kanallar",Tabi Spor 6
-https://andro.2385437.xyz/checklist/androstreamlivetb6.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 6" group-title="Diğer Kanallar",Tabi Spor 6
-https://andro.2385437.xyz/checklist/androstreamlivetb6.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 7" group-title="Diğer Kanallar",Tabi Spor 7
-https://andro.2385437.xyz/checklist/androstreamlivetb7.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 7" group-title="Diğer Kanallar",Tabi Spor 7
-https://andro.2385437.xyz/checklist/androstreamlivetb7.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 8" group-title="Diğer Kanallar",Tabi Spor 8
-https://andro.2385437.xyz/checklist/androstreamlivetb8.m3u8
-#EXTINF:-1 tvg-name="Tabi Spor 8" group-title="Diğer Kanallar",Tabi Spor 8
-https://andro.2385437.xyz/checklist/androstreamlivetb8.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor" group-title="Tivibu",Tivibu Spor
-https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor" group-title="Tivibu",Tivibu Spor
-https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 1" group-title="Tivibu",Tivibu Spor 1
-https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 1" group-title="Tivibu",Tivibu Spor 1
-https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 2" group-title="Tivibu",Tivibu Spor 2
-https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 2" group-title="Tivibu",Tivibu Spor 2
-https://andro.2385437.xyz/checklist/androstreamlivets2.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 3" group-title="Tivibu",Tivibu Spor 3
-https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 3" group-title="Tivibu",Tivibu Spor 3
-https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 4" group-title="Tivibu",Tivibu Spor 4
-https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 4" group-title="Tivibu",Tivibu Spor 4
-https://andro.2385437.xyz/checklist/androstreamlivets4.m3u8
-#EXTINF:-1 tvg-name="Tjk Tv" group-title="Yarış",Tjk Tv
-https://andro.2385437.xyz/checklist/androstreamlivetjk.m3u8
-#EXTINF:-1 tvg-name="Tjk Tv" group-title="Yarış",Tjk Tv
-https://andro.2385437.xyz/checklist/androstreamlivetjk.m3u8
-#EXTINF:-1 tvg-name="Toulon+ - Vivero+ (17:16)" group-title="Maç Yayınları",Toulon+ - Vivero+ (17:16)
-https://andro.2385437.xyz/checklist/androstreamlivech18445943.m3u8
-#EXTINF:-1 tvg-name="Toulon+ - Vivero+ (17:16)" group-title="Maç Yayınları",Toulon+ - Vivero+ (17:16)
-https://andro.2385437.xyz/checklist/androstreamlivech18445943.m3u8
-#EXTINF:-1 tvg-name="Trt 1" group-title="Ulusal Kanallar",Trt 1
-https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
-#EXTINF:-1 tvg-name="Trt 1" group-title="Ulusal Kanallar",Trt 1
-https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
-#EXTINF:-1 tvg-name="Trt Spor" group-title="Ulusal Kanallar",Trt Spor
-https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 tvg-name="Trt Spor" group-title="Ulusal Kanallar",Trt Spor
-https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 tvg-name="Trt Spor Yıldız" group-title="Ulusal Kanallar",Trt Spor Yıldız
-https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 tvg-name="Trt Spor Yıldız" group-title="Ulusal Kanallar",Trt Spor Yıldız
-https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 tvg-name="Tv8" group-title="Ulusal Kanallar",Tv8
-https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
-#EXTINF:-1 tvg-name="Tv8" group-title="Ulusal Kanallar",Tv8
-https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
-#EXTINF:-1 tvg-name="Tv8,5" group-title="Ulusal Kanallar",Tv8,5
-https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
-#EXTINF:-1 tvg-name="Tv8,5" group-title="Ulusal Kanallar",Tv8,5
-https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
-#EXTINF:-1 tvg-name="Tver - Kachkanar (17:00)" group-title="Maç Yayınları",Tver - Kachkanar (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445666.m3u8
-#EXTINF:-1 tvg-name="Tver - Kachkanar (17:00)" group-title="Maç Yayınları",Tver - Kachkanar (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445666.m3u8
-#EXTINF:-1 tvg-name="Türkiye (Pro) - Çek Cumhuriyeti (Pro) (16:55)" group-title="Maç Yayınları",Türkiye (Pro) - Çek Cumhuriyeti (Pro) (16:55)
-https://andro.2385437.xyz/checklist/androstreamlivech18445638.m3u8
-#EXTINF:-1 tvg-name="Türkiye (Pro) - Çek Cumhuriyeti (Pro) (16:55)" group-title="Maç Yayınları",Türkiye (Pro) - Çek Cumhuriyeti (Pro) (16:55)
-https://andro.2385437.xyz/checklist/androstreamlivech18445638.m3u8
-#EXTINF:-1 tvg-name="United FC - Flash (17:35)" group-title="Maç Yayınları",United FC - Flash (17:35)
-https://andro.2385437.xyz/checklist/androstreamlivech18445949.m3u8
-#EXTINF:-1 tvg-name="United FC - Flash (17:35)" group-title="Maç Yayınları",United FC - Flash (17:35)
-https://andro.2385437.xyz/checklist/androstreamlivech18445949.m3u8
-#EXTINF:-1 tvg-name="VC Aktobe - Esil Petropavlovsk II (16:30)" group-title="Maç Yayınları",VC Aktobe - Esil Petropavlovsk II (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech296023320525312000.m3u8
-#EXTINF:-1 tvg-name="VC Aktobe - Esil Petropavlovsk II (16:30)" group-title="Maç Yayınları",VC Aktobe - Esil Petropavlovsk II (16:30)
-https://andro.2385437.xyz/checklist/androstreamlivech296023320525312000.m3u8
-#EXTINF:-1 tvg-name="Vergara Rivera/Pieri - Zantedeschi/Ruggeri (15:48)" group-title="Maç Yayınları",Vergara Rivera/Pieri - Zantedeschi/Ruggeri (15:48)
-https://andro.2385437.xyz/checklist/androstreamlivech18445364.m3u8
-#EXTINF:-1 tvg-name="Vergara Rivera/Pieri - Zantedeschi/Ruggeri (15:48)" group-title="Maç Yayınları",Vergara Rivera/Pieri - Zantedeschi/Ruggeri (15:48)
-https://andro.2385437.xyz/checklist/androstreamlivech18445364.m3u8
-#EXTINF:-1 tvg-name="Virtus Bologna - Barcelona (22:30)" group-title="Maç Yayınları",Virtus Bologna - Barcelona (22:30)
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Vitaliy Sachko - Petr Brunclik (15:30)" group-title="Maç Yayınları",Vitaliy Sachko - Petr Brunclik (15:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18445182.m3u8
-#EXTINF:-1 tvg-name="Vitaliy Sachko - Petr Brunclik (15:30)" group-title="Maç Yayınları",Vitaliy Sachko - Petr Brunclik (15:30)
-https://andro.2385437.xyz/checklist/androstreamlivech18445182.m3u8
-#EXTINF:-1 tvg-name="Volna (4x4) - Uran (4x4) (17:00)" group-title="Maç Yayınları",Volna (4x4) - Uran (4x4) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445779.m3u8
-#EXTINF:-1 tvg-name="Volna (4x4) - Uran (4x4) (17:00)" group-title="Maç Yayınları",Volna (4x4) - Uran (4x4) (17:00)
-https://andro.2385437.xyz/checklist/androstreamlivech18445779.m3u8
-#EXTINF:-1 tvg-name="Wolfpack (Bayanlar) - Dolphins (Bayanlar) (17:10)" group-title="Maç Yayınları",Wolfpack (Bayanlar) - Dolphins (Bayanlar) (17:10)
-https://andro.2385437.xyz/checklist/androstreamlivech18445517.m3u8
-#EXTINF:-1 tvg-name="Wolfpack (Bayanlar) - Dolphins (Bayanlar) (17:10)" group-title="Maç Yayınları",Wolfpack (Bayanlar) - Dolphins (Bayanlar) (17:10)
-https://andro.2385437.xyz/checklist/androstreamlivech18445517.m3u8
-#EXTINF:-1 tvg-name="Zalgiris Kaunas - Olympiakos (21:00)" group-title="Maç Yayınları",Zalgiris Kaunas - Olympiakos (21:00)
-https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Zeren Spor - Schweriner (20:00)" group-title="Maç Yayınları",Zeren Spor - Schweriner (20:00)
-https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 tvg-name="iDMAN Tv" group-title="Diğer Kanallar",iDMAN Tv
-https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
-#EXTINF:-1 tvg-name="iDMAN Tv" group-title="Diğer Kanallar",iDMAN Tv
-https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
+#EXTINF:-1 tvg-name="beIN Series 4" group-title="Dizi",beIN Series 4
+http://siptv.turkserver.eu:80/5SVXHdR9UT25/0Yah33m5bu/103134
