@@ -1,9 +1,8 @@
 import requests
 import re
-import time
 import urllib3
 import warnings
-from urllib.parse import urlparse
+import sys
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 warnings.filterwarnings('ignore')
@@ -223,6 +222,9 @@ def main():
     success = generator.selcuksports_streams()
     if success:
         generator.save_m3u()
+        sys.exit(0)
+    else:
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
