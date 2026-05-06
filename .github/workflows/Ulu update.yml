@@ -33,6 +33,6 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
-          git add ulu.m3v
+          git add ulu.m3u
           git diff --staged --quiet || git commit -m "Ulusal ve Spor Listesi Guncellendi: $(date)"
           git push
