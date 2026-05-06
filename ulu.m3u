@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-# Son Guncelleme: 06.05.2026 18:46:06
+# Son Guncelleme: 06.05.2026 18:46:42
 
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80196fc2-f4f6-4e35-ae29-7925a5885a20.png" group-title="TURKIYE DEATHLESS",TR:Trt 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -107,9 +107,6 @@ https://andro.adece12.sbs/checklist/androstreamlivetb1.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Aston Villa - Nottingham Forest
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivetrt1.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",FC Inter Nouakchott - ASC SnimCANLI
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech38119465.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Mianova - AFK CosmosCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech19059781.m3u8
@@ -356,9 +353,6 @@ https://andro.adece12.sbs/checklist/androstreamlivech38119591.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Alvik Basket - Eskilstuna BasketCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech38119689.m3u8
-#EXTINF:-1 group-title="NETSPOR MACLAR",Budapesti Honved SE - Debreceni EACCANLI
-#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
-https://andro.adece12.sbs/checklist/androstreamlivech38119691.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",MZT Skopje - PelisterCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech38119583.m3u8
@@ -506,6 +500,9 @@ https://andro.adece12.sbs/checklist/androstreamlivech38119537.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Karolina Pliskova - Jessica Bouzas ManeiroCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech38118901.m3u8
+#EXTINF:-1 group-title="NETSPOR MACLAR",Adrian Arcon/Matt Kleiman - Parth Aggarwal/Lenny PetitCANLI
+#EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
+https://andro.adece12.sbs/checklist/androstreamlivech38120843.m3u8
 #EXTINF:-1 group-title="NETSPOR MACLAR",Akli Ayana - Alana SmithCANLI
 #EXTVLCOPT:http-referrer=https://netspor-amp.xyz/
 https://andro.adece12.sbs/checklist/androstreamlivech38120909.m3u8
