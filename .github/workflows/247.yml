@@ -85,7 +85,7 @@ jobs:
         id: scraper
         run: |
           echo "Starting stream finder..."
-          python scraper.py 2>&1 | tee scraper_output.log
+          python 247.py 2>&1 | tee scraper_output.log
           EXIT_CODE=${PIPESTATUS[0]}
 
           if [ -f "tv247.m3u" ]; then
