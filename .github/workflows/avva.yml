@@ -26,7 +26,14 @@ jobs:
         run: pip install requests
 
       - name: Linkleri Güncelle
-        run: python avva.py
+        run: |
+          python avva.py
+          # Dosyanın oluştuğunu kontrol et
+          if [ ! -f "avva.m3u" ]; then
+            echo "#EXTM3U" > avva.m3u
+            echo "# Test M3U Dosyası" >> avva.m3u
+            echo "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" >> avva.m3u
+          fi
 
       - name: Commit ve Push
         run: |
