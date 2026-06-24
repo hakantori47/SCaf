@@ -2022,6 +2022,17 @@ https://nowhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kX8ywwV/oan.png" group-title="Haber Kanalları",OANN
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN International US" tvg-language="English" tvg-country="US" tvg-id="CNNInternational.us" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/cnn-international-us.png?raw=true" group-title="ULUSAL",CNN International US
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-name="CNN International US 2" tvg-language="English" tvg-country="US" tvg-id="CNNInternational.us" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/cnn-international-us.png?raw=true" group-title="ULUSAL",CNN International US 2
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC UK" tvg-language="English" tvg-country="TR" tvg-id="BBCNews.uk" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/bbc-uk.png?raw=true" group-title="ULUSAL",BBC UK
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-name="CBS NEWS US" tvg-language="English" tvg-country="TR" tvg-id="CBSNews247.us" tvg-logo="https://github.com/Ali343536/LOGO/blob/main/TURKEY/cbs-news-us.png?raw=true" group-title="ULUSAL",CBS NEWS US
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png" group-title="Haber Kanalları",REUTERS TV
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
