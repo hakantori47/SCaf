@@ -1828,6 +1828,18 @@ http://cdn.catcast.workers.dev/50290.m3u8
 http://cdn.catcast.workers.dev/40761.m3u8
 #EXTINF:-1 tvg-id="48591" tvg-logo="https://catcast.tv/assets/no-logo.svg",Turkuzplay 1
 http://cdn.catcast.workers.dev/48591.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="https://catcast.tv/assets/no-logo.svg",Hint Filmleri 
+https://v2.catcast.tv/content/50901/index.m3u8?token=ddd17770a48f8b11c88577d263c6b9f8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://catcast.tv/assets/no-logo.svg",fanatikmaxyesilcam
+https://v2.catcast.tv/content/50735/index.m3u8?token=0ae214ce38e15c27e3ff9077548e496c
+#EXTINF:-1 tvg-id="12" tvg-logo="https://catcast.tv/assets/no-logo.svg",catcast/kanal-65
+https://v2.catcast.tv/content/47437/index.m3u8?token=47922b2505723b804782958f3ad830a9
+#EXTINF:-1 tvg-id="13" tvg-logo="https://catcast.tv/assets/no-logo.svg",kanal65-mrbean
+https://v2.catcast.tv/content/39349/index.m3u8?token=017df6d10be3b6d9473dfbbbc5976987
+#EXTINF:-1 tvg-id="14" tvg-logo="https://catcast.tv/assets/no-logo.svg",catcast/underworld
+https://v2.catcast.tv/content/50751/index.m3u8?token=85ce3483b5a4168fc1503bc107038158
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="Haber Kanalları",DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 
